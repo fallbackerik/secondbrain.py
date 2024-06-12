@@ -13,9 +13,9 @@ I'll take some notes and this here is the summary.
 
 === Ongoing Notes
 
- - https://www.youtube.com/@matt_brooks-green[Matt Brooks-Green] interviews http://backseatlinguist.com/blog/[Dr Jeff McQuilla] about McQuilla's science (or his understanding of current science status-quo; TODO)
- - <<Learning>> vs <<Acquisition>>
-
+* https://www.youtube.com/@matt_brooks-green[Matt Brooks-Green] interviews http://backseatlinguist.com/blog/[Dr Jeff McQuilla] about McQuilla's science (or his understanding of current science status-quo; TODO)
+* <<Learning>> vs <<Acquisition>>
++
 [cols="1,1"]
 |===
 |Learning |Acquisition 
@@ -31,25 +31,27 @@ I'll take some notes and this here is the summary.
 
 |===
 
- - subconscious knowledge comes from understanding messages that are <<comprehensible>>
- - shows an example, where he teaches "these are two hands" in Spanish, just by showing what he says with his hands
- - recommends: look for a teacher that works visually, speaks slowly, speaks clearly (!TODO for my English?), 
- - recommends https://youtu.be/SFZyArZa-o0?si=m3CYf-By9x5NaXtI[Beniko Mason] as an examplary teacher
- - How does <<grammar>> fit into this?
- - One part of grammar that is often highlighted is <<syntax>>, the order of words in a sentence
- - Also, grammar is often seen as a way of teaching language
- - McQuilla has grammar rule books in his mind, when he thinks about it; personally, I believe that grammar exercise books are helpful at a certain stage and that mid-level students who want to become fluent need to focus on grammar exercises (talking about myself here as well)
- - applying grammar rules is not something we would do in real life, as when we communicate we focus on transmitting meaning
- - **also: the brain cannot do meaning-construction and grammar-construction at the same time** (TODO: scientific reference)
- - Most students make the same mistakes with or without grammar lessons before the writing exercise (TODO: scientific evidence?)
-   - side note: What about pre-tests? If you pretest and then feed grammar lessons based on the mistakes of the student, they might drastically improve learning? pre-testing is scientifically proven to work (TODO: reference)
- - McQuilla says, because it's hard to measure acquisition status (<<output metric>>), it's important to measure understanding-percentage (<<input metric>>)
- - therefore, improve amount of comprehensible content you can get (independent of your level of learning? what about <<diminishing returns>>?)
- - in the video description there is a suggestion for this https://learn.storylearning.com/uncovered-select-language37129904?affiliate_id=4012887[story based language learning site]
+* subconscious knowledge comes from understanding messages that are <<comprehensible>>
+* shows an example, where he teaches "these are two hands" in Spanish, just by showing what he says with his hands
+* recommends: look for a teacher that works visually, speaks slowly, speaks clearly (!TODO for my English?), 
+* recommends https://youtu.be/SFZyArZa-o0?si=m3CYf-By9x5NaXtI[Beniko Mason] as an examplary teacher
+* How does <<grammar>> fit into this?
+* One part of grammar that is often highlighted is <<syntax>>, the order of words in a sentence
+* Also, grammar is often seen as a way of teaching language
+* McQuilla has grammar rule books in his mind, when he thinks about it;
+  personally, I believe that grammar exercise books are helpful at a certain stage and that mid-level students who want to become fluent need to focus on grammar exercises
+  (talking about myself here as well)
+* applying grammar rules is not something we would do in real life, as when we communicate we focus on transmitting meaning
+* **also: the brain cannot do meaning-construction and grammar-construction at the same time** (TODO: scientific reference)
+** Most students make the same mistakes with or without grammar lessons before the writing exercise (TODO: scientific evidence?)
+*** side note: What about pre-tests? If you pretest and then feed grammar lessons based on the mistakes of the student, they might drastically improve learning? pre-testing is scientifically proven to work (TODO: reference)
+* McQuilla says, because it's hard to measure acquisition status (<<output metric>>), it's important to measure understanding-percentage (<<input metric>>)
+* therefore, improve amount of comprehensible content you can get (independent of your level of learning? what about <<diminishing returns>>?)
+* in the video description there is a suggestion for this https://learn.storylearning.com/uncovered-select-language37129904?affiliate_id=4012887[story based language learning site]
 
 == Notes to Self, Brainfarts, etc
 
- - am i prefering urban to garden environments because of the visual info-to-noise ratio?
- - asciidoc:
-   - Shouldn't I be able to tell the parser: here's a folder with `adoc` files. When building cross references, check all the files, and build links towards all the generated files
-   - is that the thing that is missing to build wikis with Asciidoc?
+* am i prefering urban to garden environments because of the visual info-to-noise ratio?
+* asciidoc:
+** Shouldn't I be able to tell the parser: here's a folder with `adoc` files. When building cross references, check all the files, and build links towards all the generated files
+** is that the thing that is missing to build wikis with Asciidoc?
