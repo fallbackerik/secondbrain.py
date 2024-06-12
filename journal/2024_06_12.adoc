@@ -65,7 +65,7 @@ The previous video (TODO how to reference that in asciidoc) recommmended https:/
 It needs a teacher who understands story presentation and grammar very well. Then the student can focus on story comprehension in the target language during guided exercise, and read stories by themselves
 in their sparetime. Mason made primary science herself to ensure her method works and is open for feedback from her peers.
 
-* method is called <<story listening>> and <<guided self-selected reading>> (SL/GSSR)
+* method is called <<story listening>> and <<guided self-selected reading>> (SL/GSSR) ==> Krashen calls this <<Comprehensible Input>>
 * assumption: focused listening/reading comprehension might be more efficient than immersion. (TODO: science refs)
 * assumption: input > input+output (Mason, 2011) (Mason, Krashen, 2019)
 * implicetely Mason says, that the teacher is the person who needs to be fluent in the grammar rules, so they can create and choose content appropriately for the students and understand the student's current status
