@@ -4,6 +4,10 @@
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
 
+== TL;DR Comprehensible Input
+
+After all I've learned to day, I believe https://youtu.be/rqpUTVYNCVU?si=9YsdblItmiAlOi6x[this video] summarizes it well. Go watch it.
+
 == How to Learn Languages in 2024 - 1 By Comprehension
 ===  Summary
 
