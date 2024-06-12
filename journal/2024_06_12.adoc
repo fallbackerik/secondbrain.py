@@ -1,0 +1,26 @@
+= Learning Languages
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+== Summary
+
+While watching the YT recommendation about how to https://www.youtube.com/watch?v=9Olt2FO99SQ["(...) REALLY Learn Languages"],
+I'll take some notes and this here is the summary.
+
+
+== Ongoing Notes
+
+ - <<Learning>> vs <<Acquisition>>
+
+[cols="1,1"]
+|===
+|Learning |Acquisition 
+
+|conscious
+|subconscious
+
+
+|===
+
