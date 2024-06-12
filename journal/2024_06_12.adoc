@@ -70,6 +70,11 @@ in their sparetime. Mason made primary science herself to ensure her method work
 * assumption: input > input+output (Mason, 2011) (Mason, Krashen, 2019)
 * implicetely Mason says, that the teacher is the person who needs to be fluent in the grammar rules, so they can create and choose content appropriately for the students and understand the student's current status
 
+== How to Learn Languages in 2024 - 3 Story Lesson Example
+
+Found https://youtu.be/PvynPXIs3b8?si=MmyehBbGiGtNyslb[this video] while searching for the previous one.
+
+
 == Notes to Self, Brainfarts, etc
 
 * am i prefering urban to garden environments because of the visual info-to-noise ratio?
@@ -84,3 +89,4 @@ in their sparetime. Mason made primary science herself to ensure her method work
 *** I don't like fighting
 *** **New idea**: Why not let the main character dance with the NPCs? It's a similar interactive, physical way of communication; the UI/UX could be almost the same, and it's completely non-violent
 ** Side note: The first in-game engine I know that allowed players and game makers to make movies was Warcraft 3
+* I vastly prefer SVG over 3D content, because it shows more that people can create it by hand as well, and not just prompt it or generate it or pay someone else to do it. DYI capability is important, I believe.
