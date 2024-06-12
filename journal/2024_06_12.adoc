@@ -64,3 +64,4 @@ I'll take some notes and this here is the summary.
 * asciidoc:
 ** Shouldn't I be able to tell the parser: here's a folder with `adoc` files. When building cross references, check all the files, and build links towards all the generated files
 ** is that the thing that is missing to build wikis with Asciidoc?
+* TODO: https://www.youtube.com/watch?v=wOXxs2YpJCk&list=TLPQMTIwNjIwMjRVXsTIKVEsoA&index=3[New Japanese Exercise]
