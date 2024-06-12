@@ -14,6 +14,7 @@ I'll take some notes and this here is the summary.
 === Ongoing Notes
 
 * https://www.youtube.com/@matt_brooks-green[Matt Brooks-Green] interviews http://backseatlinguist.com/blog/[Dr Jeff McQuilla] about McQuilla's science (or his understanding of current science status-quo; TODO)
+* McQuillan is a student of Dr Stephen Krashen
 * <<Learning>> vs <<Acquisition>>
 +
 [cols="1,1"]
@@ -45,10 +46,18 @@ I'll take some notes and this here is the summary.
 * **also: the brain cannot do meaning-construction and grammar-construction at the same time** (TODO: scientific reference)
 ** Most students make the same mistakes with or without grammar lessons before the writing exercise (TODO: scientific evidence?)
 *** side note: What about pre-tests? If you pretest and then feed grammar lessons based on the mistakes of the student, they might drastically improve learning? pre-testing is scientifically proven to work (TODO: reference)
+*** at 18:50 again, McQuillan claims grammar lessons and single-vocab study doesn't help at all and that there's research backing his understanding
+*** later he corrects it a little: it is possible, but the time-efficiency is very low and the time is better spent with other exercises
+*** Matt adds, that learning through comprehending stories is also **MORE FUN** (no further scientific evidence needed!)
 * McQuilla says, because it's hard to measure acquisition status (<<output metric>>), it's important to measure understanding-percentage (<<input metric>>)
 * therefore, improve amount of comprehensible content you can get (independent of your level of learning? what about <<diminishing returns>>?)
 * in the video description there is a suggestion for this https://learn.storylearning.com/uncovered-select-language37129904?affiliate_id=4012887[story based language learning site]
-
+* <<vocabulary acquisition>> is done subconsciously and incrementally
+** you try to comprehend and by that learn new words
+** usually you pick up a detail, interpretation or a sense of the new word
+** each time you see it in a new context you pick up new meaning
+** at some point it is acquired and usable
+** by focussing on comprehension, you automatically sort and filter based on the words you meet more often; personal note: this feels risky, maybe teachers could help the right texts to read
 == Notes to Self, Brainfarts, etc
 
 * am i prefering urban to garden environments because of the visual info-to-noise ratio?
