@@ -4,7 +4,7 @@
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
 
-== How to Learn Languages in 2024
+== How to Learn Languages in 2024 - 1 By Comprehension
 ===  Summary
 
 While watching the Youtube recommendation about how to https://www.youtube.com/watch?v=9Olt2FO99SQ["(...) REALLY Learn Languages"],
@@ -58,6 +58,18 @@ I'll take some notes and this here is the summary.
 ** each time you see it in a new context you pick up new meaning
 ** at some point it is acquired and usable
 ** by focussing on comprehension, you automatically sort and filter based on the words you meet more often; personal note: this feels risky, maybe teachers could help the right texts to read
+
+== How to Learn Languages in 2024 - 2 By Stories
+
+The previous video (TODO how to reference that in asciidoc) recommmended https://youtu.be/oQ74fe2fMDk?si=sMglOKdgmebHg5Ph[this teacher], so I'll check out her ideas.
+It needs a teacher who understands story presentation and grammar very well. Then the student can focus on story comprehension in the target language during guided exercise, and read stories by themselves
+in their sparetime. Mason made primary science herself to ensure her method works and is open for feedback from her peers.
+
+* method is called <<story listening>> and <<guided self-selected reading>> (SL/GSSR)
+* assumption: focused listening/reading comprehension might be more efficient than immersion. (TODO: science refs)
+* assumption: input > input+output (Mason, 2011) (Mason, Krashen, 2019)
+* implicetely Mason says, that the teacher is the person who needs to be fluent in the grammar rules, so they can create and choose content appropriately for the students and understand the student's current status
+
 == Notes to Self, Brainfarts, etc
 
 * am i prefering urban to garden environments because of the visual info-to-noise ratio?
