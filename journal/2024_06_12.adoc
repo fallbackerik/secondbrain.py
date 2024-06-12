@@ -1,26 +1,39 @@
-= Learning Languages
+= Daily Journal Wednesday, Jun 12, 2024
 //Settings:
 :icons: font
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
 
-== Summary
+== Learning Languages
+===  Summary
 
-While watching the YT recommendation about how to https://www.youtube.com/watch?v=9Olt2FO99SQ["(...) REALLY Learn Languages"],
+While watching the Youtube recommendation about how to https://www.youtube.com/watch?v=9Olt2FO99SQ["(...) REALLY Learn Languages"],
 I'll take some notes and this here is the summary.
 
 
-== Ongoing Notes
+=== Ongoing Notes
 
+ - https://www.youtube.com/@matt_brooks-green[Matt Brooks-Green] interviews http://backseatlinguist.com/blog/[Dr Jeff McQuilla] about McQuilla's science (or his understanding of current science status-quo; TODO)
  - <<Learning>> vs <<Acquisition>>
 
 [cols="1,1"]
 |===
 |Learning |Acquisition 
 
-|conscious
-|subconscious
+| conscious
+| subconscious
 
+| ???
+| ???
+
+| traditional focus
+| more useful (why?)
 
 |===
 
+ - subconscious knowledge comes from understanding messages that are <<comprehensible>>
+ - shows an example, where he teaches "these are two hands" in Spanish, just by showing what he says with his hands
+ - recommends: look for a teacher that works visually, speaks slowly, speaks clearly (!TODO for my English?), 
+ - recommends https://youtu.be/SFZyArZa-o0?si=m3CYf-By9x5NaXtI[Beniko Mason] as an examplary teacher
+
+ - in the video description there is a suggestion for this https://learn.storylearning.com/uncovered-select-language37129904?affiliate_id=4012887[story based language learning site]
