@@ -65,3 +65,9 @@ I'll take some notes and this here is the summary.
 ** Shouldn't I be able to tell the parser: here's a folder with `adoc` files. When building cross references, check all the files, and build links towards all the generated files
 ** is that the thing that is missing to build wikis with Asciidoc?
 * TODO: https://www.youtube.com/watch?v=wOXxs2YpJCk&list=TLPQMTIwNjIwMjRVXsTIKVEsoA&index=3[New Japanese Exercise]
+* inspired by https://youtu.be/iio_ZOS2T3s?si=izHOv2B1NF4Efcvr[this video recommendation] from Youtube:
+** Why have the older Zeldas be more fun to me, although the Switch Zeldas have much better graphics, are more mobile, and have the logically better world interaction?
+** I think it's because of the interaction with NPCs. Usually non-interactiveness with intelligent being is what I miss the most
+** In older versions most interactions where fighting NPCs, though
+** I don't like fighting
+** **New idea**: Why not let the main character dance with the NPCs? It's a similar interactive, physical way of communication; the UI/UX could be almost the same, and it's completely non-violent
