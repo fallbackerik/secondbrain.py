@@ -1,0 +1,26 @@
+= Journal, Wednesday, June 19, 2024
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+== Notes
+
+* I want to draw people, too. But my traditional attempt, going from basic shapes, everything architectured, is not feeling like me.
+* https://youtu.be/kNCfg-hOctE[found this video] where the strategy feels like more like me:
+** Starting from one recognizable important area
+** Going outside from there, using shadow-shapes and lines to keep the sizing about right
+** even if there are "mistakes", the goal should still be understandable from the result, it would just look more comic-like which is fine
+* reasons for using cross hatching technique for shading:
+** learning to draw lines through repetition
+** technique being almost independent of the drawing tool
+* challenges
+** https://www.youtube.com/clip/UgkxusY5a33oYrS1DS0aUzcM-jH_rlIv82pa[lines imply direction]
+** https://youtube.com/clip/Ugkx3eL-aj7qj0uoZMhslkJLUiU7L1dcvg5K?si=TRlm8vcq2aEEB3ML[creating different values and maybe avoiding subshape creation, or seeing that as part of the art]
+** https://youtube.com/clip/UgkxRcHNR28yReezvXzzjqJjUuInZEfXa-l6?si=0S3vnQCoQakQ69vM[creating texture and value interact]
+* https://youtu.be/LGWyqty2m-A?si=Wuk7N2sZbxZNpdnU[interesting movie: The Quite Girl]
+** Is it normal that good art usually has more than one goal that is not necessarily interlinked with the others?
+** Here it's maintaining a language and telling an individual's story
+** https://youtu.be/l-wUKu_V2Lk?si=6HhXIARA388eGaGG[In Spiderverse] apparently it's keeping a comic look appeal and optimizing 3D animation while creating a new movie
+* Very curious about https://youtu.be/6EJGnU2AmV4?si=F6J05z-CzGno9xqA[this movie: Close]
+** It looks like a sapphic story but with male actors
