@@ -4,7 +4,9 @@ import os.path
 def main() -> None:
   with open("index.adoc", "w") as index:
     for journal in os.listdir("journal/"):
-      if os.path.isfile(os.path.join("journal/", journal)) and journal.endswith(".adoc"):
+      full_path = os.path.join("journal/", journal)
+      print("including: ", full_path)
+      if os.path.isfile() and journal.endswith(".adoc"):
         index.append("include::{journal}[]")
       
 if __name__ == '__main__':
