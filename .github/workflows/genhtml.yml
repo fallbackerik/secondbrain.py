@@ -11,13 +11,13 @@ jobs:
       - name: install dependencies
         run: pip install -r requirements.txt
       - name: generate html
-        run: asciidoc --verbose -o README.html README.adoc
+        run: asciidoc --verbose -o web/index.html README.adoc
       - name: list filesystem
         run: ls -al
       - name: upload html
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './*html'
+          path: './web'
       - name: deploy to github pages
         id: deployment
         uses: actions/deploy-pages@v4
