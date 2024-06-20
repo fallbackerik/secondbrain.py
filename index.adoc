@@ -13,10 +13,10 @@ include::journal/*.adoc[]
 
 :leveloffset: -1
 
-== Notes
+== Concepts
 
 :leveloffset: +1
 
-include::note/*.adoc[]
+include::concept/*.adoc[]
 
 :leveloffset: -1
