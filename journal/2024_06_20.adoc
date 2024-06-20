@@ -29,7 +29,7 @@
 ```
 xref:document-b.adoc#section-b[Section B]
 ```
-** Now this should link to a concept in a different directory: xref:sections:/concept/Business2Administration.adoc#Business2Administration[B2A]
+** Now this should link to a concept in a different directory: xref:/concept/Business2Administration.adoc[B2A]
 * Getting from Beat Sheat to list of scenes
 ** https://youtube.com/clip/Ugkx2iBWtX_SdmxmgJm-c1zLPhOLFhC9p7Zd?si=gGhi514iUqhQt5Va[well], the teaching always goes for conflicts. But in real life, is that really the case? I'd say our usual actions contain change, improvement, challenges. But there is no need for conflict to make progress. E.g., when I draw a picture, from first stroke to signature, there isn't a single point where conflict is necessary to continue the painting. And yet, the end result can be so wonderful.
 ** When studying beat sheats, I thought a beat is a step in the overall story progression, so it contains multiple scenes, or the transition from one beat to another is a list of scenes. And a scene then is a list of shots.
