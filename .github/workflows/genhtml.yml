@@ -20,10 +20,6 @@ jobs:
         run: python generate_includes.py
       - name: what's in the index.adoc after?
         run: cat index.adoc
-      - name: generate html for concept/B2A
-        run: asciidoc --verbose -o web/Business2Administration.html concept/Business2Administration.adoc
-      - name: generate html for journal/<today>
-        run: asciidoc --verbose -o web/journal-2024_06_20.html journal/2024_06_20.adoc
       - name: generate html
         run: asciidoc --verbose -o web/index.html index.adoc || echo "failed"
       - name: list filesystem
