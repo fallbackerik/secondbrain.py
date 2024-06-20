@@ -1,9 +1,3 @@
-= index
-//Settings:
-:icons: font
-:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
-:toc:
-:docrole: home
 
 == Journals
 
@@ -18,3 +12,5 @@ include::journal[]
 :leveloffset: +1
 
 include::concept[]
+
+:leveloffset: -1
