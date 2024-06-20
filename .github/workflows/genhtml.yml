@@ -16,3 +16,5 @@ jobs:
         run: source venv/bin/activate
       - name: install dependencies
         run: pip install -r requirements.txt
+      - name: testing whether each run is actually inside the venv
+        run: deactivate
