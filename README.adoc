@@ -1,3 +1,7 @@
-# secondbrain.py
+= secondbrain.py
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
 
 Like Obsidian, but with Asciidoc, Python and Github Actions
