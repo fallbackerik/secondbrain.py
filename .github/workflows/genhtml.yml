@@ -5,6 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate HTML
     steps:
+      - name: can I install asciidoc3 without pip?
+        run: apt search asciidoc3
       - uses: actions/checkout@v4
       - name: list filesystem
         run: ls -al
