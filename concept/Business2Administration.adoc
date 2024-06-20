@@ -1,4 +1,4 @@
-= Business To Administration (B2A)
+== Business To Administration (B2A)
 //Settings:
 :icons: font
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
