@@ -7,4 +7,4 @@
 
 include::journal/[]
 
-include::journal/2024_06_11.adoc[]
+include::journal/2024_06_11.adoc[leveloffset=+1]
