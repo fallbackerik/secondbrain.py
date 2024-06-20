@@ -15,7 +15,7 @@ jobs:
         run: ls -al
       - name: install dependencies
         run: pip install -r requirements.txt
-      - name: preprocess:
+      - name: preprocess adoc files
         run: python generate_includes.py
       - name: generate html
         run: asciidoc --verbose -o web/index.html index.adoc
