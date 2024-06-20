@@ -10,7 +10,6 @@ jobs:
   generate_html_job:
     runs-on: ubuntu-latest
     name: Generate HTML
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
       - name: list filesystem
@@ -26,7 +25,7 @@ jobs:
       - name: generate html for journal/<today>
         run: asciidoc --verbose -o web/journal-2024_06_20.html journal/2024_06_20.adoc
       - name: generate html
-        run: asciidoc --verbose -o web/index.html index.adoc
+        run: asciidoc --verbose -o web/index.html index.adoc || echo "failed"
       - name: list filesystem
         run: ls -al
       - name: upload html
