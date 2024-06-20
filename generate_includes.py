@@ -8,6 +8,7 @@ def main() -> None:
     print("including: ", full_path)
     if os.path.isfile(full_path) and journal.endswith(".adoc"):
       journal_includes.append(f"include::{full_path}[]")
+  journal_includes.sort()
   with open("index.adoc", "r") as index_in:
     index_txt = index_in.read()
   with open("index.adoc", "w") as index_out:
