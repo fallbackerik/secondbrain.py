@@ -5,4 +5,15 @@
 :toc:
 
 == Notes
-
+* secondbrain.py
+** to use more advanced referencing features it seems I need to generate htmls again
+** I found that I probably don't need the action+docker wrapping around the actual python calls -> faster and github should containerize each workflow run anyways
+** Thus, I need to make some changes to the tooling
+** If I need to make changes anyways, I can dip into figuring out whether to immediately use `uv`, the new `pip` replacement that was written in `rust`
+*** As assumed, https://youtube.com/clip/UgkxIzzzufmuFZAxudx2qQz5pJRLcDzRgfT8?si=stTKf90vvbYDO3VH[it's a lot faster]
+*** A little bit surprising, https://youtube.com/clip/UgkxiK_GImHCOwMMTNDlqxSTVr4LxfFxrVd4?si=4VxF6z5efobwvQzy[now python users will run into the more struct rust environment and think its a tooling failure instead of embracing it]
+* also noticing I'm really angry today
+** I feel my stakeholders want to show me that its not just whats in the package but the packaging itself which makes the sale
+** it's shown to me by me being homeless and being seen (and sometimes smelled) as a homeless, resulting in people failing to give me a chance that THEY would profit from
+** however, my conclusion is different: The world sucks and my motivation to be a constructive member decreases drastically
+** Also, this huge, multi-layer negative feedback teaching itself feels wrong. It creates self-hate, hating others, hating my teachers even. And it creates a lot of internal resistance instead of internal growth.
