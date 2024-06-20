@@ -9,4 +9,4 @@ jobs:
       - name: list filesystem
         run: ls -al
       - name: do sth with python
-        run: python
+        run: python --version
