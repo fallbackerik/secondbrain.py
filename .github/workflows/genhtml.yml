@@ -9,7 +9,7 @@ jobs:
       - name: list filesystem
         run: ls -al
       - name: install dependencies 1
-        run: source venv/bin/activate && pip install -r requirements.txt
+        run: pip install -r requirements.txt
       - name: do sth with python
         run: python --version
       - name: venv
