@@ -5,4 +5,18 @@
 :toc:
 :docrole: home
 
+== Journals
+
+:leveloffset: +1
+
 include::journal/*.adoc[]
+
+:leveloffset: -1
+
+== Notes
+
+:leveloffset: +1
+
+include::note/*.adoc[]
+
+:leveloffset: -1
