@@ -11,6 +11,6 @@ jobs:
       - name: install dependencies
         run: pip install -r requirements.txt
       - name: generate html
-        run: asciidoc3 -n -a icons -a toc -o README.html README.adoc
+        run: asciidoc3 -n --conf-file asciidoc3.conf -a icons -a toc -o README.html README.adoc
       - name: list filesystem
         run: ls -al
