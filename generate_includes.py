@@ -17,7 +17,7 @@ def main() -> None:
   with open("index.adoc", "w") as index_out:
     out_txt = index_txt.replace("include::journal[]", "\n\n".join(note_includes("journal")) + "\n").replace("include::concept[]", "\n\n".join(note_includes("concept")) + "\n")
     print("---")
-    print(out_txt)
+    print(repr(out_txt))
     print("---")
     index_out.write(out_txt)
 
