@@ -35,3 +35,6 @@ xref:document-b.adoc#section-b[Section B]
 ** https://youtube.com/clip/Ugkx2iBWtX_SdmxmgJm-c1zLPhOLFhC9p7Zd?si=gGhi514iUqhQt5Va[well], the teaching always goes for conflicts. But in real life, is that really the case? I'd say our usual actions contain change, improvement, challenges. But there is no need for conflict to make progress. E.g., when I draw a picture, from first stroke to signature, there isn't a single point where conflict is necessary to continue the painting. And yet, the end result can be so wonderful.
 ** When studying beat sheats, I thought a beat is a step in the overall story progression, so it contains multiple scenes, or the transition from one beat to another is a list of scenes. And a scene then is a list of shots.
 ** But now that I want to break down my beat sheet into scenes, I find that the educators https://youtube.com/clip/UgkxmWpKi0nQgVXLzRjNsvxIT_nfw5QYCGVn?si=896XV-OHFp0SqA87[break down scenes into beats] as well... confused
+** https://youtu.be/7cqZXMWC60s?si=XUNHidN6QfPRZJbB[This video] doesn't really explain it but gives a good hint, how to make progress:
+*** Take a (story?) beat, break it down into sub-elements that each contain of a sentence and a picture, then reorder this list of sentences until it makes sense.
+*** Then maybe 1-2 sentences can be a scene, or the other way around a scene contains 1-2 such sentences.
