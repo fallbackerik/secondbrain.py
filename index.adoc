@@ -3,6 +3,7 @@
 :icons: font
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
+:docrole: home
 
 include::journal/[]
 
