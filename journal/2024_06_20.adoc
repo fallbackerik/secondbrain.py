@@ -15,6 +15,7 @@
 ** Altogether, there seem to be again more python tools around packaging, that I haven't been aware off
 *** e.g. https://youtube.com/clip/UgkxywOhNHiJn_GzY6R-ADCLcxbITx5ZjDw0?si=nSba7JuGRDnIMOWh[pip-tools], not sure I need https://youtube.com/clip/Ugkxf0omNHi90Wi5EgkWklZOpKoyBbDNw-7m?si=sEKi7iwz6LwC2729[this additional insight]
 *** Ruff linter (one video I watched didn't really show me why its better), but https://stackoverflow.com/a/54962903/25303772[I learned something new about Python]
+*** If I need to show some python code, https://youtu.be/LlrKTV4-ftI?si=R2hWxi840jbssp6l[Github can execute Jupyter notebooks as well]
 * also noticing I'm really angry today
 ** I feel my stakeholders want to show me that its not just whats in the package but the packaging itself which makes the sale
 ** it's shown to me by me being homeless and being seen (and sometimes smelled) as a homeless, resulting in people failing to give me a chance that THEY would profit from
