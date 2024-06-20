@@ -17,6 +17,6 @@ include::journal[]
 
 :leveloffset: +1
 
-
+include::concept[]
 
 :leveloffset: -1
