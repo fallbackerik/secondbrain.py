@@ -1,10 +1,10 @@
-= Journal, Thursday, June 20, 2024
+== Journal, Thursday, June 20, 2024
 //Settings:
 :icons: font
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
 
-== Notes
+=== Notes
 * secondbrain.py
 ** to use more advanced referencing features it seems I need to generate htmls again
 ** I found that I probably don't need the action+docker wrapping around the actual python calls -> faster and github should containerize each workflow run anyways
