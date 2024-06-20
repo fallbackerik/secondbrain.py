@@ -12,6 +12,9 @@
 ** If I need to make changes anyways, I can dip into figuring out whether to immediately use `uv`, the new `pip` replacement that was written in `rust`
 *** As assumed, https://youtube.com/clip/UgkxIzzzufmuFZAxudx2qQz5pJRLcDzRgfT8?si=stTKf90vvbYDO3VH[it's a lot faster]
 *** A little bit surprising, https://youtube.com/clip/UgkxiK_GImHCOwMMTNDlqxSTVr4LxfFxrVd4?si=4VxF6z5efobwvQzy[now python users will run into the more struct rust environment and think its a tooling failure instead of embracing it]
+** Altogether, there seem to be again more python tools around packaging, that I haven't been aware off
+*** e.g. https://youtube.com/clip/UgkxywOhNHiJn_GzY6R-ADCLcxbITx5ZjDw0?si=nSba7JuGRDnIMOWh[pip-tools], not sure I need https://youtube.com/clip/Ugkxf0omNHi90Wi5EgkWklZOpKoyBbDNw-7m?si=sEKi7iwz6LwC2729[this additional insight]
+*** Ruff linter (one video I watched didn't really show me why its better), but https://stackoverflow.com/a/54962903/25303772[I learned something new about Python]
 * also noticing I'm really angry today
 ** I feel my stakeholders want to show me that its not just whats in the package but the packaging itself which makes the sale
 ** it's shown to me by me being homeless and being seen (and sometimes smelled) as a homeless, resulting in people failing to give me a chance that THEY would profit from
