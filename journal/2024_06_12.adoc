@@ -1,4 +1,4 @@
-== Daily Journal Wednesday, Jun 12, 2024
+== Journal, Wednesday, Jun 12, 2024
 //Settings:
 :icons: font
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
