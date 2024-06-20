@@ -38,3 +38,7 @@ xref:document-b.adoc#section-b[Section B]
 ** https://youtu.be/7cqZXMWC60s?si=XUNHidN6QfPRZJbB[This video] doesn't really explain it but gives a good hint, how to make progress:
 *** Take a (story?) beat, break it down into sub-elements that each contain of a sentence and a picture, then reorder this list of sentences until it makes sense.
 *** Then maybe 1-2 sentences can be a scene, or the other way around a scene contains 1-2 such sentences.
+** Another idea
+*** take each beat, draw a picture that best represents it, then try to fill the wholes between the pictures with more picture
+*** be creative, think about different paths, doodling
+** Maybe the main thing that stopped me from moving past the beat sheet was my mood. Survival mode is not a good environment to be creative.
