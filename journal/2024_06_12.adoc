@@ -1,21 +1,21 @@
-= Daily Journal Wednesday, Jun 12, 2024
+== Daily Journal Wednesday, Jun 12, 2024
 //Settings:
 :icons: font
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
 
-== TL;DR Comprehensible Input
+=== TL;DR Comprehensible Input
 
 After all I've learned to day, I believe https://youtu.be/rqpUTVYNCVU?si=9YsdblItmiAlOi6x[this video] summarizes it well. Go watch it.
 
-== How to Learn Languages in 2024 - 1 By Comprehension
-===  Summary
+=== How to Learn Languages in 2024 - 1 By Comprehension
+====  Summary
 
 While watching the Youtube recommendation about how to https://www.youtube.com/watch?v=9Olt2FO99SQ["(...) REALLY Learn Languages"],
 I'll take some notes and this here is the summary.
 
 
-=== Ongoing Notes
+==== Ongoing Notes
 
 * https://www.youtube.com/@matt_brooks-green[Matt Brooks-Green] interviews http://backseatlinguist.com/blog/[Dr Jeff McQuilla] about McQuilla's science (or his understanding of current science status-quo; TODO)
 * McQuillan is a student of Dr Stephen Krashen
@@ -63,7 +63,7 @@ I'll take some notes and this here is the summary.
 ** at some point it is acquired and usable
 ** by focussing on comprehension, you automatically sort and filter based on the words you meet more often; personal note: this feels risky, maybe teachers could help the right texts to read
 
-== How to Learn Languages in 2024 - 2 By Stories
+=== How to Learn Languages in 2024 - 2 By Stories
 
 The previous video (TODO how to reference that in asciidoc) recommmended https://youtu.be/oQ74fe2fMDk?si=sMglOKdgmebHg5Ph[this teacher], so I'll check out her ideas.
 It needs a teacher who understands story presentation and grammar very well. Then the student can focus on story comprehension in the target language during guided exercise, and read stories by themselves
@@ -74,13 +74,13 @@ in their sparetime. Mason made primary science herself to ensure her method work
 * assumption: input > input+output (Mason, 2011) (Mason, Krashen, 2019)
 * implicetely Mason says, that the teacher is the person who needs to be fluent in the grammar rules, so they can create and choose content appropriately for the students and understand the student's current status
 
-== How to Learn Languages in 2024 - 3 Story Lesson Example
+=== How to Learn Languages in 2024 - 3 Story Lesson Example
 
 Found https://youtu.be/PvynPXIs3b8?si=MmyehBbGiGtNyslb[this video] while searching for the previous one.
 The story focuses more on chaining simple events by using simple language. Lots of pictures are used. Some translations. Quite often sentences are repeated and rephrased to make them more understandable.
 
 
-== Notes to Self, Brainfarts, etc
+=== Notes to Self, Brainfarts, etc
 
 * am i prefering urban to garden environments because of the visual info-to-noise ratio?
 * asciidoc:
