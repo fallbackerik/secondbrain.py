@@ -1,0 +1,7 @@
+= index
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+:include::journal/[]
