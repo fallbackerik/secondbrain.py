@@ -18,3 +18,5 @@ jobs:
         run: source venv/bin/activate && pip install -r requirements.txt
       - name: testing whether each run is actually inside the venv
         run: source venv/bin/activate && pip freeze
+      - name: generate html
+        run: source venv/bin/activate && asciidoc3 -n -a icons -a toc -o test.html test.txt
