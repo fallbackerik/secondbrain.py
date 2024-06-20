@@ -7,6 +7,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: list filesystem
-        run: ls -al output/
+        run: ls -al
       - name: do sth with python
         run: python
