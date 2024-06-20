@@ -19,6 +19,8 @@ jobs:
       - name: testing whether each run is actually inside the venv
         run: source venv/bin/activate && pip freeze
       - name: generate html
+        run: source venv/bin/activate && asciidoc3 --help
+      - name: generate html
         run: source venv/bin/activate && asciidoc3 -n -a icons -a toc -o README.html README.adoc
       - name: list filesystem
         run: ls -al
