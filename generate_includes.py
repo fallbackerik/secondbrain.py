@@ -11,7 +11,7 @@ def main() -> None:
   with open("index.adoc", "r") as index_in:
     index_txt = index_in.read()
   with open("index.adoc", "w") as index_out:
-    index_out.write(index_txt.replace("include::journal/*[]", "\n".join(journal_includes)))
+    index_out.write(index_txt.replace("include::journal/*.adoc[]", "\n".join(journal_includes)))
 
 if __name__ == '__main__':
   main()
