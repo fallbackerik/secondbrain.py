@@ -10,3 +10,9 @@ jobs:
         run: ls -al
       - name: do sth with python
         run: python --version
+      - name: venv
+        run: python -m venv venv
+      - name: activate venv
+        run: source venv/bin/activate
+      - name: install dependencies
+        run: pip install -r requirements.txt
