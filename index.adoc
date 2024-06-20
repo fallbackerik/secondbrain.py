@@ -9,7 +9,7 @@
 
 :leveloffset: +1
 
-include::journal/*.adoc[]
+include::journal[]
 
 :leveloffset: -1
 
@@ -17,6 +17,6 @@ include::journal/*.adoc[]
 
 :leveloffset: +1
 
-include::concept/*.adoc[]
+include::concept[]
 
 :leveloffset: -1
