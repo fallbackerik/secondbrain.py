@@ -15,9 +15,13 @@ def main() -> None:
   with open("index.adoc", "r") as index_in:
     index_txt = index_in.read()
   with open("index.adoc", "w") as index_out:
-    index_out.write(index_txt
+    out_txt = index_txt
       .replace("include::journal[]", "\n\n".join(note_includes("journal")) + "\n")
-      .replace("include::concept[]", "\n\n".join(note_includes("concept")) + "\n"))
+      .replace("include::concept[]", "\n\n".join(note_includes("concept")) + "\n")
+    print("---")
+    print(out_txt)
+    print("---")
+    index_out.write(out_txt)
 
 if __name__ == '__main__':
   main()
