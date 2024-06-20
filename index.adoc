@@ -5,8 +5,4 @@
 :toc:
 :docrole: home
 
-:leveloffset: +1
-
 include::journal/*.adoc[]
-
-:leveloffset: -1
