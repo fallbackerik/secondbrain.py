@@ -14,3 +14,10 @@ jobs:
         run: asciidoc --verbose -o README.html README.adoc
       - name: list filesystem
         run: ls -al
+      - name: upload html
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './*html'
+      - name: deploy to github pages
+        id: deployment
+        uses: actions/deploy-pages@v4
