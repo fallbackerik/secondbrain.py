@@ -13,8 +13,8 @@ jobs:
       - name: venv
         run: python -m venv venv
       - name: activate venv
-        run: source venv/bin/activate
+        run: source venv/bin/activate && pip install -U pip
       - name: install dependencies
         run: source venv/bin/activate && pip install -r requirements.txt
       - name: testing whether each run is actually inside the venv
-        run: source venv/bin/activate && deactivate
+        run: source venv/bin/activate && pip freeze
