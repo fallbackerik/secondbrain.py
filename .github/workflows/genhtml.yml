@@ -28,6 +28,8 @@ jobs:
         run: asciidoc --verbose -o web/index.html index.adoc || echo "failed"
       - name: list filesystem
         run: ls -al
+      - name: list web filesystem
+        run: ls -al web
       - name: upload html
         uses: actions/upload-pages-artifact@v3
         with:
