@@ -5,3 +5,4 @@
 :toc:
 
 include::journal/[]
+include::journal/2024_06_11.adoc[]
