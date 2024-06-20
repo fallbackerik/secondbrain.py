@@ -1,10 +1,10 @@
-= Journal, Wednesday, June 19, 2024
+== Journal, Wednesday, June 19, 2024
 //Settings:
 :icons: font
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
 
-== Notes
+=== Notes
 
 * I want to draw people, too. But my traditional attempt, going from basic shapes, everything architectured, is not feeling like me.
 * https://youtu.be/kNCfg-hOctE[found this video] where the strategy feels like more like me:
