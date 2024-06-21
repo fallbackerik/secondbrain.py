@@ -10,3 +10,5 @@
 ** https://www.youtube.com/shorts/_qcAhplaXJ8[However, most content I see on Youtube is like this.] I really hope that's just the surface, the *attention* part of <<AIDA>>
 * Asciidoc [[Testanchor]]
 ** Trying to manually create references with anchors, e.g. <<Testanchor>>
+* sat next to https://github.com/t1h0[this guy], saw that he was working on his github profile, assumed that he does that because he wants to make friends, gave him a follow and forked one of his repos,
+  and he literally ran away... not sure what to make out of this.
