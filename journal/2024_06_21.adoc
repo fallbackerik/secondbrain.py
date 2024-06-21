@@ -8,3 +8,5 @@
 * https://youtu.be/JSTYxm3435Q?si=Adiz9GElClIaVSA0[Duolingo is amazing]; I love how they always extend the world beyond the simple learning activity.
 * My hope for Baldurs Gate 3 is that it is an amazing story-generator engine with complex choices that allow for varying character developments, while also presenting a deep and complex story
 ** https://www.youtube.com/shorts/_qcAhplaXJ8[However, most content I see on Youtube is like this.] I really hope that's just the surface, the *attention* part of <<AIDA>>
+* Asciidoc [[Testanchor]]
+** Trying to manually create references with anchors, e.g. <<Testanchor>>
