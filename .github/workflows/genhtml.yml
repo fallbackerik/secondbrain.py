@@ -20,8 +20,14 @@ jobs:
         run: python generate_includes.py
       - name: what's in the index.adoc after?
         run: cat index.adoc
+      - name: pwd
+        run: pwd
       - name: find asciidoc code
         run: which asciidoc
+      - name: ls that folder
+        run: ls -al /home/runner/.local/
+      - name: ls that folders sub
+        run: ls -al /home/runner/.local/bin
       - name: generate html
         run: asciidoc --verbose -o web/index.html index.adoc || echo "failed"
       - name: list filesystem
