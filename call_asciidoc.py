@@ -1,5 +1,7 @@
 import sys
+
 from asciidoc import asciidoc
+import argparse
 
 def main() -> None:
   """ use more core asciidoc functionality
