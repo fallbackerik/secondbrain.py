@@ -3,7 +3,7 @@ import os
 import os.path
 
 from asciidoc import asciidoc
-from asciidoc.asciidoc import asciidoc, reset_asciidoc
+from asciidoc.asciidoc import fasciidoc, reset_asciidoc
 import argparse
 
 def execute(cmd, opts, args):
@@ -77,7 +77,7 @@ def execute(cmd, opts, args):
             sys.stdout = outfile
             outfile = '<stdout>'
         # Do the work.
-        asciidoc(backend, doctype, confiles, infile, outfile, options)
+        fasciidoc(backend, doctype, confiles, infile, outfile, options)
         if document.has_errors:
             sys.exit(1)
     finally:
