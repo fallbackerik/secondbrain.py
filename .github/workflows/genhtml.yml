@@ -24,10 +24,8 @@ jobs:
         run: pwd
       - name: find asciidoc code
         run: which asciidoc
-      - name: ls that folder
-        run: ls -al /home/runner/.local/
-      - name: ls that folders sub
-        run: ls -al /home/runner/.local/bin
+      - name: ls asciidoc folder
+        run: ls -al /home/runner/.local/bin/asciidoc
       - name: generate html
         run: asciidoc --verbose -o web/index.html index.adoc || echo "failed"
       - name: list filesystem
