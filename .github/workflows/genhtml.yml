@@ -31,7 +31,7 @@ jobs:
       - name: list filesystem
         run: ls -al
       - name: list web filesystem
-        run: ls -al web
+        run: tree web
       - name: upload html
         uses: actions/upload-pages-artifact@v3
         with:
