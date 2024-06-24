@@ -27,7 +27,7 @@ jobs:
       - name: cat asciidoc
         run: cat /home/runner/.local/bin/asciidoc
       - name: generate html
-        run: python ./call_asciidoc.py --verbose -i journal/*.adoc concept /*.adoc index.adoc || echo "failed"
+        run: python ./call_asciidoc.py --verbose --infiles=journal/*.adoc concept /*.adoc index.adoc || echo "failed"
       - name: list filesystem
         run: ls -al
       - name: list web filesystem
