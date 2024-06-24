@@ -8,7 +8,7 @@ from asciidoc.asciidoc import reset_asciidoc, config
 import argparse
 
 def execute(cmd, opts, args):
-    """
+    """ function is taken directly from the asciidoc-py source for experimentation
     """
     reset_asciidoc()
     config.init()
