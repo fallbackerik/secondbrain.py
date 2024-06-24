@@ -14,6 +14,7 @@ def main() -> None:
                     epilog='Text at the bottom of help')
 
   parser.add_argument('-i', '--infiles')
+  parser.add_argument("-v", "--verbose")
 
   args = parser.parse_args()
   print("call asciidoc", args)
