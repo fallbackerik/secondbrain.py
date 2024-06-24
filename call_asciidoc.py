@@ -4,7 +4,7 @@ import os.path
 
 from asciidoc import asciidoc
 from asciidoc.asciidoc import asciidoc as fasciidoc
-from asciidoc.asciidoc import reset_asciidoc
+from asciidoc.asciidoc import reset_asciidoc, config
 import argparse
 
 def execute(cmd, opts, args):
