@@ -1,0 +1,8 @@
+== Journal, Monday, June 24, 2024
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+=== Notes
+* https://www.youtube.com/watch?v=-578C3gFepU&list=TLPQMjQwNjIwMjRENwmMk9putg&index=3[Do I actually need to "figure out exactly"] each camera ankle for my goal of making xref:concept/VisualNovel.adoc[VN]s?
