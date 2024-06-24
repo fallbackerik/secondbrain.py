@@ -1,4 +1,5 @@
 import sys
+import os
 import os.path
 
 from asciidoc import asciidoc
@@ -26,7 +27,7 @@ def main() -> None:
     fname_wo_ending = filename.split(".")[0]
     out_path = os.path.join("web", filepath)
     if not os.path.isdir(out_path):
-      os.path.mkdir(out_path)
+      os.mkdir(out_path)
     inner_argv = [sys.argv[0], "--verbose", f"--out-file={os.path.join(out_path, fname_wo_ending)}.html", file]
     print(f"send file {file} to asciidoc with inner argv:", inner_argv)
     sys.stdout.flush()
