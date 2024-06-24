@@ -18,6 +18,7 @@ def main() -> None:
 
   args = parser.parse_args()
   print("call asciidoc", args)
+  sys.stdout.flush()
   
   asciidoc.cli(['./call_asciidoc.py', '--verbose', '--out-file=web/index.html', 'index.adoc'])
   
