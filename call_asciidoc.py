@@ -1,4 +1,5 @@
 import sys
+import os.path
 
 from asciidoc import asciidoc
 import argparse
@@ -19,8 +20,15 @@ def main() -> None:
   args = parser.parse_args()
   print("call asciidoc", args)
   sys.stdout.flush()
-  
-  asciidoc.cli(['./call_asciidoc.py', '--verbose', '--out-file=web/index.html', 'index.adoc'])
+
+  for file in args.infiles:
+    filepath, filename = os.path.split(file)
+    fname_wo_ending = filename.split(".")[0]
+    out_path = os.path.join("web", filepath)
+    inner_argv = [sys.argv[0], "--verbose", f"--out-file={os.path.join(out_path, fname_wo_ending)}.html", file]
+    print(f"send file {file} to asciidoc with inner argv:", inner_argv)
+    sys.stdout.flush()
+    asciidoc.cli(inner_argv)
   
   # from the asciidoc codebase, these are the args asciidoc is looking for:
   # argv=['attribute=', 'backend=', 'conf-file=', 'doctype=', 'dump-conf',
