@@ -113,11 +113,12 @@ def main() -> None:
     inner_argv = [sys.argv[0], "--verbose", f"--out-file={os.path.join(out_path, fname_wo_ending)}.html", file]
     print(f"send file {file} to asciidoc with inner argv:", inner_argv)
     sys.stdout.flush()
-    try:
-      execute(__file__, inner_argv, [file])
-    except Exception as ex:
-      print("!!!!!! EXCEPTION:", ex)
-      sys.stdout.flush()
+    execute(__file__, inner_argv, [file])
+    #try:
+    #  execute(__file__, inner_argv, [file])
+    #except Exception as ex:
+    #  print("!!!!!! EXCEPTION:", ex)
+    #  sys.stdout.flush()
   
   # from the asciidoc codebase, these are the args asciidoc is looking for:
   # argv=['attribute=', 'backend=', 'conf-file=', 'doctype=', 'dump-conf',
