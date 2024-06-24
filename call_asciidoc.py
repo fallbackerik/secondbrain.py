@@ -3,7 +3,8 @@ import os
 import os.path
 
 from asciidoc import asciidoc
-from asciidoc.asciidoc import fasciidoc, reset_asciidoc
+from asciidoc.asciidoc import asciidoc as fasciidoc
+from asciidoc.asciidoc import reset_asciidoc
 import argparse
 
 def execute(cmd, opts, args):
