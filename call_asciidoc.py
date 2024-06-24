@@ -114,7 +114,7 @@ def main() -> None:
     print(f"send file {file} to asciidoc with inner argv:", inner_argv)
     sys.stdout.flush()
     try:
-      asciidoc.cli(inner_argv)
+      execute(__file__, inner_argv, file)
     except Exception as ex:
       print("!!!!!! EXCEPTION:", ex)
       sys.stdout.flush()
