@@ -108,12 +108,13 @@ def main() -> None:
     filepath, filename = os.path.split(file)
     fname_wo_ending = filename.split(".")[0]
     out_path = os.path.join("web", filepath)
+    out_file = os.path.join(out_path, fname_wo_ending)
     if not os.path.isdir(out_path):
       os.mkdir(out_path)
-    inner_argv = [sys.argv[0], "--verbose", f"--out-file={os.path.join(out_path, fname_wo_ending)}.html", file]
+    inner_argv = [sys.argv[0], "--verbose", f"--out-file={out_file}.html", file]
     print(f"send file {file} to asciidoc with inner argv:", inner_argv)
     sys.stdout.flush()
-    execute(__file__, inner_argv[1:], [file])
+    execute(__file__, (("verbose", True), ("out-file", out_file)), [file])
     #try:
     #  execute(__file__, inner_argv, [file])
     #except Exception as ex:
