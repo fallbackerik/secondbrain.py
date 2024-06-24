@@ -21,7 +21,10 @@ def execute(cmd, opts, args):
     outfile = None
     options = []
     help_option = False
-    for o, v in opts:
+    for x in opts:
+        print("x", x)
+        sys.stdout.flush()
+        o, v = x
         if o in ('-b', '--backend'):
             backend = v
         if o in ('-c', '--dump-conf'):
