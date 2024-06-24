@@ -20,6 +20,8 @@ jobs:
         run: python generate_includes.py
       - name: what's in the index.adoc after?
         run: cat index.adoc
+      - name: find asciidoc code
+        run: which asciidoc
       - name: generate html
         run: asciidoc --verbose -o web/index.html index.adoc || echo "failed"
       - name: list filesystem
