@@ -35,8 +35,10 @@ def main() -> None:
       asciidoc.cli(inner_argv)
     except Exception as ex:
       print("!!!!!! EXCEPTION:", ex)
+      sys.stdout.flush()
     except Error as er:
       print("!!!!!! ERROR:", er)
+      sys.stdout.flush()
   
   # from the asciidoc codebase, these are the args asciidoc is looking for:
   # argv=['attribute=', 'backend=', 'conf-file=', 'doctype=', 'dump-conf',
