@@ -1,0 +1,14 @@
+== Comprehensible Input
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+* learned about this xref:/journal/2024_06_12.adoc[on June 12], while watching https://www.youtube.com/watch?v=9Olt2FO99SQ[this video]
+* term was coined by Dr Stephen Krashen
+* basic idea is that you don't learn vocabs separately, but listen to stories, that are just slightly above your level of understanding. Allowing you to naturally acquire new vocab through context cues.
+* McQuilla, the video's creator, shows an example, where he teaches "these are two hands" in Spanish, just by showing what he says with his hands
+* McQuilla recommends https://youtu.be/SFZyArZa-o0?si=m3CYf-By9x5NaXtI[Beniko Mason] as an examplary teacher
+* The assumption may be that this not just works for vocab but for grammar as well.
+* I personally started using this method additionally to Duolingo.
+* I continue to use other methods when possible, like xref:/concept/SpacedRepetition.adoc[Spaced Repetition] and xref:/concept/PreTesting.adoc[Pre-Testing]
