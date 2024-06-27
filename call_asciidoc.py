@@ -3,9 +3,178 @@ import os
 import os.path
 
 from asciidoc import asciidoc
-from asciidoc.asciidoc import asciidoc as fasciidoc
 from asciidoc.asciidoc import reset_asciidoc, config, usage, document
 import argparse
+
+def fasciidoc(backend, doctype, confiles, infile, outfile, options):
+    """Convert AsciiDoc document to DocBook document of type doctype
+    The AsciiDoc document is read from file object src the translated
+    DocBook file written to file object dst."""
+    def load_conffiles(include=[], exclude=[]):
+        # Load conf files specified on the command-line and by the conf-files attribute.
+        files = document.attributes.get('conf-files', '')
+        files = [f.strip() for f in files.split('|') if f.strip()]
+        files += confiles
+        if files:
+            for f in files:
+                if os.path.isfile(f):
+                    config.load_file(f, include=include, exclude=exclude)
+                else:
+                    raise EAsciiDoc('missing configuration file: %s' % f)
+    try:
+        document.attributes['python'] = sys.executable
+        for f in config.filters:
+            if not config.find_config_dir('filters', f):
+                raise EAsciiDoc('missing filter: %s' % f)
+        if doctype not in (None, 'article', 'manpage', 'book'):
+            raise EAsciiDoc('illegal document type')
+        # Set processing options.
+        for o in options:
+            if o == '-c':
+                config.dumping = True
+            if o == '-s':
+                config.header_footer = False
+            if o == '-v':
+                config.verbose = True
+        document.update_attributes()
+        if '-e' not in options:
+            # Load asciidoc.conf files in two passes: the first for attributes
+            # the second for everything. This is so that locally set attributes
+            # available are in the global asciidoc.conf
+            if not config.load_from_dirs('asciidoc.conf', include=['attributes']):
+                raise EAsciiDoc('configuration file asciidoc.conf missing')
+            load_conffiles(include=['attributes'])
+            config.load_from_dirs('asciidoc.conf')
+            if infile != '<stdin>':
+                indir = os.path.dirname(infile)
+                config.load_file('asciidoc.conf', indir, include=['attributes', 'titles', 'specialchars'])
+        else:
+            load_conffiles(include=['attributes', 'titles', 'specialchars'])
+        document.update_attributes()
+        # Check the infile exists.
+        if infile != '<stdin>':
+            if not os.path.isfile(infile):
+                raise EAsciiDoc('input file %s missing' % infile)
+        document.infile = infile
+        AttributeList.initialize()
+        # Open input file and parse document header.
+        reader.tabsize = config.tabsize
+        reader.open(infile)
+        has_header = document.parse_header(doctype, backend)
+        # doctype is now finalized.
+        document.attributes['doctype-' + document.doctype] = ''
+        config.set_theme_attributes()
+        # Load backend configuration files.
+        if '-e' not in options:
+            f = document.backend + '.conf'
+            conffile = config.load_backend()
+            if not conffile:
+                raise EAsciiDoc('missing backend conf file: %s' % f)
+            document.attributes['backend-confdir'] = os.path.dirname(conffile)
+        # backend is now known.
+        document.attributes['backend-' + document.backend] = ''
+        document.attributes[document.backend + '-' + document.doctype] = ''
+        doc_conffiles = []
+        if '-e' not in options:
+            # Load filters and language file.
+            config.load_filters()
+            document.load_lang()
+            if infile != '<stdin>':
+                # Load local conf files (files in the source file directory).
+                config.load_file('asciidoc.conf', indir)
+                config.load_backend([indir])
+                config.load_filters([indir])
+                # Load document specific configuration files.
+                f = os.path.splitext(infile)[0]
+                doc_conffiles = [
+                    f for f in (f + '.conf', f + '-' + document.backend + '.conf')
+                    if os.path.isfile(f)
+                ]
+                for f in doc_conffiles:
+                    config.load_file(f)
+        load_conffiles()
+        # Build asciidoc-args attribute.
+        args = ''
+        # Add custom conf file arguments.
+        for f in doc_conffiles + confiles:
+            args += ' --conf-file "%s"' % f
+        # Add command-line and header attributes.
+        attrs = {}
+        attrs.update(AttributeEntry.attributes)
+        attrs.update(config.cmd_attrs)
+        if 'title' in attrs:    # Don't pass the header title.
+            del attrs['title']
+        for k, v in list(attrs.items()):
+            if v:
+                args += ' --attribute "%s=%s"' % (k, v)
+            else:
+                args += ' --attribute "%s"' % k
+        document.attributes['asciidoc-args'] = args
+        # Build outfile name.
+        if outfile is None:
+            outfile = os.path.splitext(infile)[0] + '.' + document.backend
+            if config.outfilesuffix:
+                # Change file extension.
+                outfile = os.path.splitext(outfile)[0] + config.outfilesuffix
+        document.outfile = outfile
+        # Document header attributes override conf file attributes.
+        document.attributes.update(AttributeEntry.attributes)
+        document.update_attributes()
+        # Set the default embedded icons directory.
+        if 'data-uri' in document.attributes and not os.path.isdir(document.attributes['iconsdir']):
+            document.attributes['iconsdir'] = os.path.join(document.attributes['asciidoc-confdir'], 'icons')
+        # Set compat mode
+        # TODO: Enable this in 10.3 (see https://github.com/asciidoc-py/asciidoc-py/issues/254)
+        # if 'future-compat' in document.attributes:
+        #     set_future_compat()
+        # if 'legacy-compat' in document.attributes or 'compat-mode' in document.attributes:
+        #     set_legacy_compat()
+        # Configuration is fully loaded.
+        config.expand_all_templates()
+        # Check configuration for consistency.
+        config.validate()
+        # Initialize top level block name.
+        if document.attributes.get('blockname'):
+            AbstractBlock.blocknames.append(document.attributes['blockname'])
+        paragraphs.initialize()
+        lists.initialize()
+        if config.dumping:
+            config.dump()
+        else:
+            writer.newline = config.newline
+            try:
+                print(f"writing translation to {outfile}")
+                sys.stdout.flush()
+                writer.open(outfile, reader.bom)
+                print(f"writing translation to {outfile} done")
+                sys.stdout.flush()
+                try:
+                    document.translate(has_header)  # Generate the output.
+                finally:
+                    writer.close()
+            finally:
+                reader.closefile()
+    except BaseException as e:
+        # Cleanup.
+        if outfile and outfile != '<stdout>' and os.path.isfile(outfile):
+            os.unlink(outfile)
+        if not isinstance(e, Exception):
+            raise
+        # Build and print error description.
+        msg = 'FAILED: '
+        if reader.cursor:
+            msg = message.format('', msg)
+        if isinstance(e, EAsciiDoc):
+            message.stderr('%s%s' % (msg, str(e)))
+        else:
+            if APPLICATION_CALLER == '__main__':
+                message.stderr(msg + 'unexpected error:')
+                message.stderr('-' * 60)
+                traceback.print_exc(file=sys.stderr)
+                message.stderr('-' * 60)
+            else:
+                message.stderr('%sunexpected error: %s' % (msg, str(e)))
+        sys.exit(1)
 
 def execute(cmd, opts, args):
     """ function is taken directly from the asciidoc-py source for experimentation
