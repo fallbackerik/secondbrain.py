@@ -1,0 +1,22 @@
+== Journal, Monday, June 24, 2024
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+== Notes
+
+=== Second Brain Templates
+
+* phew, I feel tired to always manually add the standard text necessary for a new journal entry.
+** https://github.com/fallbackerik/secondbrain.py/pull/2[Let's make a template!]
+** It https://stackoverflow.com/a/47599254/25303772[seems to be unwise to replace variables in strings directly with `eval()`]
+** https://youtube.com/clip/UgkxROBs9-ioVSpP9kQfBCoauT0pBiDhMTuK?si=v6t9j4FgyY5orvfV[Jinja templating engine can be used to replace variables safely], e.g. the current date in the journal's title
+** the variables can be set https://youtube.com/clip/Ugkx8gTAIVtZ1IduL29ZDvVyi1FrPWbEyYYQ?si=73bagFo84BPl3HXZ[with the `environment.render()` method]
+** a whole templating file can be loaded https://youtube.com/clip/UgkxYQn9K6-JZRtzD1E54i_XyI_3AUkW_jSM?si=kuweh0VW_S2nV8BM[like this]
+
+=== health and losing weight
+
+** I feel like two years ago I and my stakeholders tried to get me to lose weight by withholding food and basically letting me starve down a few kilos, yet without long-term success
+** Last year, we also tried the starving method, again without long-term success
+** This year, I don't want to try the same method again. Why should it work now, when it didn't work twice already?
