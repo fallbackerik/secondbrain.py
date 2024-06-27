@@ -4,11 +4,7 @@
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
 
-=== Quick and Dirty Review: Teachino
-
-Ein nettes Content Management Tool für Lehrer, mit überraschendem Fokus auf den Lehrer als zahlenden Kunden.
-Ich glaube an das Team und würde die Software selber benutzen, aber nicht wegen dem KI Feature.
-Ich hoffe, das Entwicklerteam von Teachino findet einen Partner der Ahnung von https://github.com/fallbackerik/secondbrain.py/blob/main/concept/Business2Administration.adoc[Verwaltungskunden] hat.
+include::/review/teachino.adoc[]
 
 === Notes
 Hab über https://bildung.social/@m_drabe/112598053713184910[dieses neue KI basierte Tool für Lehrer] erfahren und verschaffe mir mit Youtube einen schnellen Überblick, ob ich mir das Geben würde.
