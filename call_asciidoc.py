@@ -78,10 +78,10 @@ def execute(cmd, opts, args):
             sys.stdout = outfile
             outfile = '<stdout>'
         # Do the work.
-        print("call fasciidoc()")
+        print("call fasciidoc() before")
         sys.stdout.flush()
         fasciidoc(backend, doctype, confiles, infile, outfile, options)
-        print("call fasciidoc()")
+        print("call fasciidoc() after")
         sys.stdout.flush()
         if document.has_errors:
             sys.exit(1)
