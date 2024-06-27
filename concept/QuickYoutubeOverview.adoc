@@ -1,0 +1,8 @@
+== Quick Youtube Overview
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+* At first, I'll enter the name in Youtube and scroll through the suggestions, while using the https://youtu.be/N-HpmruO5UM?si=PqRa1FtHy6Uun4Uw[`[Add to Queue\]`] button.
+* Then I'll watch through the queue.
