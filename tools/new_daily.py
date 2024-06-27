@@ -3,16 +3,16 @@ import datetime
 
 today = datetime.date.today()
 context = {
-  "today object" : today,
-  "today iso underscored" : today.strftime("%Y_%m_%d"),
-  "today human readable" : today.strftime("%A, %M %d, %Y"),
+  "today_object" : today,
+  "today_iso_underscored" : today.strftime("%Y_%m_%d"),
+  "today_human_readable" : today.strftime("%A, %B %d, %Y"),
 }
 
 env = jinja2.Environment(loader=jinja2.FileSystemLoader("template/"))
-template = env.get_file("journal.adoc.jinja")
+template = env.get_template("journal.adoc.jinja")
 
 rendered = template.render(context)
-output_name = f"journal/{context["today iso underscore"]}.adoc"
+output_name = f"journal/{context['today_iso_underscored']}.adoc"
 with open(output_name, "w", encoding="utf-8") as output:
   output.write(rendered)
 
