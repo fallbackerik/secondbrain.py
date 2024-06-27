@@ -4,7 +4,7 @@
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
 :toc:
 
-A nice xref:concept/ContentManagementSystem.adoc[Content Management System] for teachers, with a surprising focus on teachers as paying customers.
-I believe in the developer team and would use the software myself, just not because of the xref:concept/ArtificialIntelligence.adoc[AI] feature.
-When I wrote this the first time, I thought it might be a better way to approach the schools, applying xref:concept/Business2Administration.adoc[B2A] instead of xref:concept/Business2Consumer.adoc[B2C].
+A nice xref:/concept/ContentManagementSystem.adoc[Content Management System] for teachers, with a surprising focus on teachers as paying customers.
+I believe in the developer team and would use the software myself, just not because of the xref:/concept/ArtificialIntelligence.adoc[AI] feature.
+When I wrote this the first time, I thought it might be a better way to approach the schools, applying xref:/concept/Business2Administration.adoc[B2A] instead of xref:/concept/Business2Consumer.adoc[B2C].
 Now I see that both directions have their strength. B2C gathers user feedback quicker, B2A enables safer financial situation.
