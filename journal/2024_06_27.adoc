@@ -1,4 +1,4 @@
-== Journal, Monday, June 24, 2024
+== Journal, Thursday, June 27, 2024
 //Settings:
 :icons: font
 :bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
