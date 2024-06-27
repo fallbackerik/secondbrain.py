@@ -4,6 +4,7 @@ import os.path
 
 from asciidoc import asciidoc
 from asciidoc.asciidoc import reset_asciidoc, config, usage, document, reader
+from asciidoc.exceptions import EAsciiDoc
 import argparse
 
 def fasciidoc(backend, doctype, confiles, infile, outfile, options):
