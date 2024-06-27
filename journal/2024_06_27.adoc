@@ -10,6 +10,9 @@
 
 * phew, I feel tired to always manually add the standard text necessary for a new journal entry.
 ** https://github.com/fallbackerik/secondbrain.py/pull/2[Let's make a template!]
+** I'd choose https://gist.github.com/fallbackerik/e1c4eee775995f219468e8f51cac1f57[Jinja2], as it's well established.
++
+image::https://raw.githubusercontent.com/fallbackerik/jinja/main/artwork/jinjalogo.svg[title="Jinja logo"]
 ** It https://stackoverflow.com/a/47599254/25303772[seems to be unwise to replace variables in strings directly with `eval()`]
 ** https://youtube.com/clip/UgkxROBs9-ioVSpP9kQfBCoauT0pBiDhMTuK?si=v6t9j4FgyY5orvfV[Jinja templating engine can be used to replace variables safely], e.g. the current date in the journal's title
 ** the variables can be set https://youtube.com/clip/Ugkx8gTAIVtZ1IduL29ZDvVyi1FrPWbEyYYQ?si=73bagFo84BPl3HXZ[with the `environment.render()` method]
