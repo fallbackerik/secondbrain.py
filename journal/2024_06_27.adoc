@@ -20,6 +20,21 @@ image::https://raw.githubusercontent.com/fallbackerik/jinja/main/artwork/jinjalo
 
 === health and losing weight
 
-** I feel like two years ago I and my stakeholders tried to get me to lose weight by withholding food and basically letting me starve down a few kilos, yet without long-term success
-** Last year, we also tried the starving method, again without long-term success
-** This year, I don't want to try the same method again. Why should it work now, when it didn't work twice already?
+* I feel like two years ago I and my stakeholders tried to get me to lose weight by withholding food and basically letting me starve down a few kilos, yet without long-term success
+* Last year, we also tried the starving method, again without long-term success
+* This year, I don't want to try the same method again. Why should it work now, when it didn't work twice already?
+
+=== Choice of programming language
+
+* randomly wondering, if I should learn more programming languages
+* https://www.youtube.com/watch?v=5C_HPTJg5ek[How about Rust]
+** Pro:
+*** It's supposedly C-like but more safe and more fast
+*** full backend control
+*** afaik used a lot at Red Hat, which for me is always a recommendation in itself
+* https://www.youtube.com/watch?v=NrO0CJCbYLA[How about Dart]
+** Pro:
+*** UI based
+*** multi-arch/-platform
+*** Youtube often https://www.youtube.com/watch?v=1xipg02Wu8s[recommends Flutter], which is a framework on Dart.
+*** therefore, Dart is probably very mobile friendly
