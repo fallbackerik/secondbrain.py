@@ -3,7 +3,7 @@ import os
 import os.path
 
 from asciidoc import asciidoc
-from asciidoc.asciidoc import reset_asciidoc, config, usage, document
+from asciidoc.asciidoc import reset_asciidoc, config, usage, document, reader
 import argparse
 
 def fasciidoc(backend, doctype, confiles, infile, outfile, options):
