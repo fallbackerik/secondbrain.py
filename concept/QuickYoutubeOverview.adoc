@@ -6,3 +6,23 @@
 
 * At first, I'll enter the name in Youtube and scroll through the suggestions, while using the https://youtu.be/N-HpmruO5UM?si=PqRa1FtHy6Uun4Uw[`[Add to Queue\]`] button.
 * Then I'll watch through the queue.
+
+=== Example: Learning about Teachino
+
+* Erst mal https://youtu.be/EibTD_H2NkM?si=Q0y-z4vL_59KuVXD[eine kurze Übersicht von den Entwicklern selbst].
+* Erst mal sieht es aus, wie ein Content Management System für Lehrer. Interessanterweise scheint der Lehrer als Individuum das Ziel zu sein, nicht die Schule oder das Amt.
+* Ein Blick https://www.teachino.io/preise[auf die Pricing Seite] bestätigt, dass auch die Finanzierung über den Lehrer selbst laufen soll.
+* Das ist für die Firma eigentlich nicht gut. Sie hätten schon lieber Kontingente aus Lehrern und Schulen.
+* Aber es könnte so schwer sein, da dann an Finanzierung zu kommen... unklar.
+* Das Nutzerinterface sieht gut aus.
+* In https://youtu.be/xwlDuXtUV-g?si=eYth3SoiRurQBZXO[einem zweiten Video] geht es um die Zusammenarbeit zwischen mehreren Lehrern, also Sharing und Syncing von Content. Gutes Feature.
+* Ohne sync mit richtigem Git drunter bin ich mir aber immer nicht sicher in wie weit das dann irgendwann chaotisch wird.
+* Überrascht war ich, dass ich jetzt extra noch mal suchen musste, https://youtu.be/MCclpMqMEqk?si=jtaE0Kr-wDfVlXdI[wo die KI herkommt].
+* Richtig toll, dass die Entwickler selbst auch andere KIs vorstellen und empfehlen.
+* Die eigene KI scheint hauptsächlich ein "Weiterschreiben" Feature zu beinhalten. Also ein kontext-basierter Text Generator, der den kreativen Prozess des Lehrers unterstützt.
+* Aus eigener Erfahrung it Grammarly AI kann ich sagen, dass es hilft, aber auf keinen Fall die ganze Arbeit abnimmt.
+* Da ist die KI gutes Feature, aber sicher kein Alleinstellungsmerkmal oder sollte gar der Grund sein, die Software zu kaufen.
+* Trotzdem haben mich die Videos überzeugt. Ich mag besonders das Entwickler Team, ihr Fokus auf den Lehrer als Hauptnutzer, ihre Oberflächen Gestaltung (UX) und die Idee Lern Content als Marketing Content zu nutzen.
+* In the end I summarize my results in some way:
++
+include::/review/teachino.adoc[]
