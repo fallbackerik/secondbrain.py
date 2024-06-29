@@ -5,3 +5,5 @@
 :toc:
 
 == Notes
+* I did other things as well, but...
+* mostly spent time debugging https://github.com/fallbackerik/secondbrain.py/pull/2[the automation of daily journal entry creation based on a template]
