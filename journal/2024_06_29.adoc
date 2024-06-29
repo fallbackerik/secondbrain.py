@@ -20,3 +20,4 @@
 ** https://youtube.com/clip/Ugkx6hVxSeBnIbdBH07LtIr1vg3IEXIhaxAY?si=ldd4S2AfDRYaWdam[here's an example of pre-defined structure]. A review process.
    What if this would be simplified into that everytime a new day begins, a new question or input arises, the related part of the database gets reviewed?
 ** If your xref:/concept/Zettelkasten.adoc[Zettelkasten] is good enough, then why need another note-taking app with included PDF storage? I think https://youtube.com/clip/UgkxnfpkdHt-7-5zwk_fokUwr-ccyxB9V-2W?si=Vpx2Eusiz46njsDj[Zotero] is not needed, and I might replace this next.
+*** Decided to make this a https://github.com/fallbackerik/secondbrain.py/issues/6[constructive feature request] instead of simply bashing on Zotero.
