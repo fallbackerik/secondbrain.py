@@ -10,3 +10,8 @@
 ** why does meeting a seemingly smarter person cause https://youtube.com/clip/UgkxpWbsepFJzNeKTI6FlcfBjOQrztsJfKyG?si=wZ8zK42UZeXXnlG9[imposter syndrome]?
 *** And he's not even smarter, he's using a better method. Everybody, or at least many, could have become as smart as him by copying his method.
 ** don't give https://youtube.com/clip/UgkxTKYQurwShoZ-uG3Ght5MN7CRz-WWTUcT?si=bX1qUHo9IBk2--lT[tanks to chipmunks], give typewriters to apes! (joke)
+** https://youtube.com/clip/UgkxxP4ABAn2PuLke2JFxfKX2iGCJ-uKjfpX?si=c4Gd5EEnOyBv71Qk
+** Assumption: If I don't let the Youtube recommendation engine decide what I investigate next,
+   but instead https://youtube.com/clip/UgkxxP4ABAn2PuLke2JFxfKX2iGCJ-uKjfpX?si=c4Gd5EEnOyBv71Qk[by parsing through my Zettelkasten],
+   it might become less random, more related to my recent activities, and more predictable what I will be working on, while
+   still giving me the natural feel of interactiveness.
