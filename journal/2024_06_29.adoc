@@ -15,3 +15,4 @@
    but instead https://youtube.com/clip/UgkxxP4ABAn2PuLke2JFxfKX2iGCJ-uKjfpX?si=c4Gd5EEnOyBv71Qk[by parsing through my Zettelkasten],
    it might become less random, more related to my recent activities, and more predictable what I will be working on, while
    still giving me the natural feel of interactiveness.
+** xref:/concept/NoteMaking.adoc[NoteMaking], i.e., https://youtube.com/clip/UgkxkylAIYlnqH1uvCYYZ7SawtxB3pJcLht8?si=nmoSayTL_HWAUcT7[reengaging with your notes later on], might be a learning method
