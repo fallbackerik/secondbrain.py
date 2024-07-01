@@ -37,3 +37,7 @@
 ** Building
 ** Teaching
 ** Healing
+* A single, <<AtomicNote>> https://youtu.be/5O46Rqh5zHE?si=c5j2boOFmef_oIpE[might contain]:
+** Questions
+** Evidence
+** Conclusions
