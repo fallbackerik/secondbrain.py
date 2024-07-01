@@ -5,3 +5,8 @@
 :toc:
 
 == Notes
+* continuing to watch https://youtu.be/wvAZ9-hmWQU?si=ZW00hDHiBp6eZ9Da[the zettelkasten vid]
+** There are https://youtube.com/clip/Ugkx4ReE_H2XrQA-alkVQMh5HmeNyNiiW2Ib?si=3GT0-uFzpAs3zF05[different types of links one can create manually], additionally to the natural
+   ones in the flow of text.
+** Example of how https://youtube.com/clip/UgkxvOy3C4JbOoNpZ5QDGZZ6SNIRtKMBKK6n?si=XQJKfvbUtv2-CEtI[links enable exploration], similar to <<MOC>>s
+*** TODO: Also copy the <<gamificatio>> thoughts in this clip.
