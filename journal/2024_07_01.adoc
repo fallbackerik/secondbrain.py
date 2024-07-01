@@ -10,3 +10,4 @@
    ones in the flow of text.
 ** Example of how https://youtube.com/clip/UgkxvOy3C4JbOoNpZ5QDGZZ6SNIRtKMBKK6n?si=XQJKfvbUtv2-CEtI[links enable exploration], similar to <<MOC>>s
 *** TODO: Also copy the <<gamificatio>> thoughts in this clip.
+** how to https://youtube.com/clip/UgkxYu3jkrbNhNbwiZQ8CW7dIL1Mjm42WAKj?si=vGAiastY15NTmWSl[use local graph view] to think about connections and ideate new links
