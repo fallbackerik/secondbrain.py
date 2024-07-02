@@ -28,3 +28,4 @@
 ** The <<IkeaEffect>>, i.e. if you built it yourself you feel more responsible for it
 ** <<MaslowsHammer>> makes you want to use it for more areas of your life
 ** they built a <<community>> around it (the video calls it <<MetaGame>>)
+** Personal use of the software is for free
