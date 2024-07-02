@@ -29,3 +29,11 @@
 ** <<MaslowsHammer>> makes you want to use it for more areas of your life
 ** they built a <<community>> around it (the video calls it <<MetaGame>>)
 ** Personal use of the software is for free
+* I personally actually don't like https://www.youtube.com/shorts/__gZl-FcIHk[the restart-from-scratch part] of <<RogueLike>>s, but I can see how it might have led strategy development for some of my stakeholders
+** What I like about this game genre:
+*** It's mostly <<IndieDevelopment>>, and often <<OpenSource>>
+*** From playing it a lot you can infer the internal design
+*** It features <<RolePlayingGame>> elements like leveling
+*** Through complex interaction models it allows the generation of new tactics and methods that look impossible from the outside, ie. it really feels like magic when you start combining some godly favour with a spell and an item to something that probably not even the developers have thought about.
+*** They are often deterministic in their nature
+* I feel, today I met some situations where I wanted to reference things I did yesterday, but I couldn't. Maybe that's an opportunity to apply the <<QEC>> method I learned yesterday, and turn some notes into <<MiniEssay>>s?
