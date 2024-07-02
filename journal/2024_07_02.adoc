@@ -6,3 +6,11 @@
 
 == Notes
 * Today, we https://youtu.be/Fp-ue4UCE3s?si=ggZ8ewsZ39-8G8BE[seem to move on] from <<RetreivalAugmentedGeneration>> (i.e., provide context database to current search) to <<ChainOfThoughtPrompting>> (i.e., split generation task in meaningful sub-tasks, and be able to trace the AI's reasoning)
+** Additionally, in the video CoT prompting is used to clarify the answering structure for the AI
+** methods:
+*** <<MultiModalCoT>> https://youtube.com/clip/Ugkx-9tWMGmdm-3XRV7OX5097rVmW5RdOMpf?si=lVKEMKBxvKJSE1N1[explained]
+    <- let me tell you how the answer should look like
+*** <<LeastToMostCoT>> https://youtube.com/clip/UgkxlOeZ3TdR4wirQNmsePn52qhbDybMXImC?si=t3oAGc6AX3-shOOe[explained]
+    <- tell me the logical steps to solve the problem, then let's go step-by-step together
+*** <<ZeroShotCoT>> https://youtube.com/clip/UgkxpWS5w2cZXXpz_dtPT5InHQaZ2boMns5B?si=isUbfUO0fArkU-49[explained]
+    <- generate logical steps, then go step-by-step on your own
