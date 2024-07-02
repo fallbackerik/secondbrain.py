@@ -1,0 +1,7 @@
+== Journal, Tuesday, July 02, 2024
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+== Notes
