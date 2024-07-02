@@ -15,3 +15,4 @@
 *** <<ZeroShotCoT>> https://youtube.com/clip/UgkxpWS5w2cZXXpz_dtPT5InHQaZ2boMns5B?si=isUbfUO0fArkU-49[explained]
     <- generate logical steps, then go step-by-step on your own
 * What I think this whole <<MOC>> https://youtu.be/W_v05d_2RTo?si=d8HvFb1r0cXhxNSr[topic is about].
+** The video didn't mention <<VectorDatabase>>s, https://youtube.com/shorts/7LEz8Elofq4?si=gJ58amugXMYs00yr[however they seem to simply use] <<HashMap>>s
