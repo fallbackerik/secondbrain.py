@@ -16,3 +16,15 @@
     <- generate logical steps, then go step-by-step on your own
 * What I think this whole <<MOC>> https://youtu.be/W_v05d_2RTo?si=d8HvFb1r0cXhxNSr[topic is about].
 ** The video didn't mention <<VectorDatabase>>s, https://youtube.com/shorts/7LEz8Elofq4?si=gJ58amugXMYs00yr[however they seem to simply use] <<HashMap>>s
+* https://youtu.be/Ii7x4mpIhIs?si=pxpPWQSxc118ABtZ[How to use Async]
+** This seems unrelated to what I did recently...
+* https://youtu.be/2lnW1PSB2_g?si=yBPmN9SQBoMDS5kl[There's also] <<TreeOfThought>> prompting
+** https://youtube.com/clip/UgkxBalIOXe1mLPSYGDFNMN0LWuZ62eRELRe?si=rHuUqbBtrWl6vQm6[the process steps]
+** this looks like the structure of a traditional Go AI(?), and therefore, maybe chess AI
+* And https://youtu.be/idknpGjs2-I?si=Nr7o5AUKHcbOU-zH[there also is] <<ChainOfDensity>> Prompting
+** It's funny, because my experience with ChatGPT is also that the responses are often too large, or at least not structured in a way that allows quick application
+* https://youtu.be/aWGviOMQqSw?si=hN2DqF5_RMPQ9Jdu[some ideas about] the established competitor to <<secondbrain.py>>, <<Notion>>
+** minimalizes the core thing people do with MS Word
+** The <<IkeaEffect>>, i.e. if you built it yourself you feel more responsible for it
+** <<MaslowsHammer>> makes you want to use it for more areas of your life
+** they built a <<community>> around it (the video calls it <<MetaGame>>)
