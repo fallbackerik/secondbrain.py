@@ -5,3 +5,4 @@
 :toc:
 
 == Notes
+* Today, we https://youtu.be/Fp-ue4UCE3s?si=ggZ8ewsZ39-8G8BE[seem to move on] from <<RetreivalAugmentedGeneration>> (i.e., provide context database to current search) to <<ChainOfThoughtPrompting>> (i.e., split generation task in meaningful sub-tasks, and be able to trace the AI's reasoning)
