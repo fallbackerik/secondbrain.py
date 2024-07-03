@@ -19,9 +19,9 @@ I'll take some notes and this here is the summary.
 
 * https://www.youtube.com/@matt_brooks-green[Matt Brooks-Green] interviews http://backseatlinguist.com/blog/[Dr Jeff McQuilla] about McQuilla's science (or his understanding of current science status-quo; TODO)
 * McQuillan is a student of Dr Stephen Krashen
-* xref:/note/LearningVsAcquisition.adoc[]
+* xref:/note/LearningVsAcquisition.adoc[Learning vs Acquisition]
 
-* xref:/note/subconsciousKnowledgeComesFromUnderstandingMessagesThatAreComprehensible.adoc[Learning vs Acquisition]
+* xref:/note/subconsciousKnowledgeComesFromUnderstandingMessagesThatAreComprehensible.adoc[subconscious knowledge comes from understanding messages that are <<comprehensible>>]
 * recommends: xref:/note/AGoodTeacherWorksVisuallyAndSpeaksSlowlyAndClearly.adoc[Visual, slow, clearly speaking] (!TODO for my English?), 
 * recommends https://youtu.be/SFZyArZa-o0?si=m3CYf-By9x5NaXtI[Beniko Mason] as an examplary teacher
 * xref:/note/DoesComprehensibleInputConsiderGrammar.adoc[Does <<ComprehensibleInput>> Consider Grammar?]
