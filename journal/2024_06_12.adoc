@@ -22,7 +22,7 @@ I'll take some notes and this here is the summary.
 * xref:/note/LearningVsAcquisition.adoc[]
 
 * xref:/note/subconsciousKnowledgeComesFromUnderstandingMessagesThatAreComprehensible.adoc[]
-* recommends: xref:/note/AGoodTeacherWorksVisuallyAndSpeaksSlowlyAndClearly.adoc (!TODO for my English?), 
+* recommends: xref:/note/AGoodTeacherWorksVisuallyAndSpeaksSlowlyAndClearly.adoc[Visual, slow, clearly speaking] (!TODO for my English?), 
 * recommends https://youtu.be/SFZyArZa-o0?si=m3CYf-By9x5NaXtI[Beniko Mason] as an examplary teacher
 * How does <<grammar>> fit into this?
 * One part of grammar that is often highlighted is <<syntax>>, the order of words in a sentence
