@@ -1,2 +1,2 @@
-asciidoc
+https://github.com/fallbackerik/asciidoc-py/archive/refs/heads/main.zip
 jinja2
