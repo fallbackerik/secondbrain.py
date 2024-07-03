@@ -7,3 +7,7 @@
 == Notes
 * decided that today I don't let YT drive my activities but my database
 * the next step here is separating out the notes with <<QEC>>
+* It's surprisingly hard to start working this way. It's intuitive to make a list of thoughts.
+  But grabbing a single one out, rewriting it, and connecting it, feels quite unintuitive.
+  Maybe just because it's a new thing I'm doing. But this might be a point where the whole
+  method might need some tweaking, or tooling support for newcomers.
