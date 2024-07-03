@@ -1,0 +1,24 @@
+a teacher that works visually, speaks slowly, speaks clearly
+
+## A Good Teacher Works Visually, Speaks Slowly, Speaks clearly
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+### Source
+
+* xref:/content/BrooksGreen2024.adoc[YT Vid: "Ex-Professor Reveals Way to REALLY Learn Languages (according to science)"]
+
+### Question
+
+How to teach better?
+
+### Evidence
+
+The interviewee Dr Jeff McQuillan https://youtube.com/clip/Ugkxn3ZTWIJALXXrXJXBHfmWa_kQQ7YXUkmn?si=qKeuANKIl2MzvSsH[explains what he believes makes a good teacher].
+From xref:/note/subconsciousKnowledgeComesFromUnderstandingMessagesThatAreComprehensible.adoc[the previous note] we also know about the example that shows his ideas.
+
+### Conclusion
+
+It's reasonable to have the teacher use more than one dimension of presenting the new knowledge, and who doesn't rely on pre-existing language knowledge.
