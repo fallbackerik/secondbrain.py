@@ -5,3 +5,5 @@
 :toc:
 
 == Notes
+* decided that today I don't let YT drive my activities but my database
+* the next step here is separating out the notes with <<QEC>>
