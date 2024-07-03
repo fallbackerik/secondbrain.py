@@ -1,14 +1,18 @@
 ## Learning vs Acquisition
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
 
-## Source
+### Source
 
 * xref:/content/BrooksGreen2024.adoc[YT Vid: "Ex-Professor Reveals Way to REALLY Learn Languages (according to science)"]
 
-## Question
+### Question
 
 What's the difference between these two ways of adding knowledge?
 
-## Evidence
+### Evidence
 
 In the video the interviewee Dr Jeff McQuillan https://youtube.com/clip/UgkxeMvZg3htozSPGxXUpx4i14QepEAFMElE?si=HvxmXxsQyP9watfu[discusses these two methods].
 
@@ -27,6 +31,6 @@ In the video the interviewee Dr Jeff McQuillan https://youtube.com/clip/UgkxeMvZ
 
 |===
 
-## Conclusion
+### Conclusion
 
 It's not fully clear from the video. I assume, though, that learning is about memorization, while acquiring is about gaining knowledge that can be actively used.
