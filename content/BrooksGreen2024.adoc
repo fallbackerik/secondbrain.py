@@ -1,0 +1,11 @@
+# BrooksGreen2024
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+:full-title: Ex-Professor Reveals Way to REALLY Learn Languages (according to science)
+:content-author: Matt Brooks-Green
+
+## Summary
+
+A video about the method of <<ComprehensibleInput>> for language learning.
