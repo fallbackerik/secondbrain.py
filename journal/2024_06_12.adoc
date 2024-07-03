@@ -19,22 +19,7 @@ I'll take some notes and this here is the summary.
 
 * https://www.youtube.com/@matt_brooks-green[Matt Brooks-Green] interviews http://backseatlinguist.com/blog/[Dr Jeff McQuilla] about McQuilla's science (or his understanding of current science status-quo; TODO)
 * McQuillan is a student of Dr Stephen Krashen
-* <<Learning>> vs <<Acquisition>>
-+
-[cols="1,1"]
-|===
-|Learning |Acquisition 
-
-| conscious
-| subconscious
-
-| ???
-| ???
-
-| traditional focus
-| more useful (why?)
-
-|===
+* xref:/note/LearningVsAcquisition.adoc[]
 
 * subconscious knowledge comes from understanding messages that are <<comprehensible>>
 * shows an example, where he teaches "these are two hands" in Spanish, just by showing what he says with his hands
