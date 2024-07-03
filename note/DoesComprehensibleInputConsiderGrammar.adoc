@@ -1,0 +1,21 @@
+## Does <<ComprehensibleInput>> Consider Grammar
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+### Source
+
+* xref:/content/BrooksGreen2024.adoc[YT Vid: "Ex-Professor Reveals Way to REALLY Learn Languages (according to science)"]
+
+### Question
+
+Does <<ComprehensibleInput>> Consider Grammar?
+
+### Evidence
+
+TODO
+
+### Conclusion
+
+TODO
