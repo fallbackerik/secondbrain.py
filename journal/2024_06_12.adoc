@@ -21,8 +21,7 @@ I'll take some notes and this here is the summary.
 * McQuillan is a student of Dr Stephen Krashen
 * xref:/note/LearningVsAcquisition.adoc[]
 
-* subconscious knowledge comes from understanding messages that are <<comprehensible>>
-* shows an example, where he teaches "these are two hands" in Spanish, just by showing what he says with his hands
+* xref:/note/subconsciousKnowledgeComesFromUnderstandingMessagesThatAreComprehensible.adoc[]
 * recommends: look for a teacher that works visually, speaks slowly, speaks clearly (!TODO for my English?), 
 * recommends https://youtu.be/SFZyArZa-o0?si=m3CYf-By9x5NaXtI[Beniko Mason] as an examplary teacher
 * How does <<grammar>> fit into this?
