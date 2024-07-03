@@ -1,0 +1,23 @@
+## subconscious knowledge comes from understanding messages that are <<comprehensible>>
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+### Source
+
+* xref:/content/BrooksGreen2024.adoc[YT Vid: "Ex-Professor Reveals Way to REALLY Learn Languages (according to science)"]
+
+### Question
+
+How to acquire subconscious knowledge?
+
+### Evidence
+
+In the video the interviewee Dr Jeff McQuillan https://youtube.com/clip/Ugkx2L4iigOr0Vc8JGhjyOg2-me8Manwhb4d?si=ivrAm6Zw5LHDBbUg[states a similar thought].
+Later https://youtube.com/clip/Ugkx7fMMBFSbCRa5NFhHbkd7hSWaHcKYxMC2?si=HMFiE5RovEq929-x[he shows an example]. Even if you don't speak Spanish you can understand what
+he's talking about, and you will gain the understanding what "two hands" means in Spanish.
+
+### Conclusion
+
+It's possible, and maybe even preferential, to gain new knowledge through this method rather than traditional memorization methods.
