@@ -20,7 +20,6 @@ I'll take some notes and this here is the summary.
 * https://www.youtube.com/@matt_brooks-green[Matt Brooks-Green] interviews http://backseatlinguist.com/blog/[Dr Jeff McQuilla] about McQuilla's science (or his understanding of current science status-quo; TODO)
 * McQuillan is a student of Dr Stephen Krashen
 * xref:/note/LearningVsAcquisition.adoc[Learning vs Acquisition]
-
 * xref:/note/subconsciousKnowledgeComesFromUnderstandingMessagesThatAreComprehensible.adoc[subconscious knowledge comes from understanding messages that are <<comprehensible>>]
 * recommends: xref:/note/AGoodTeacherWorksVisuallyAndSpeaksSlowlyAndClearly.adoc[Visual, slow, clearly speaking] (!TODO for my English?), 
 * recommends https://youtu.be/SFZyArZa-o0?si=m3CYf-By9x5NaXtI[Beniko Mason] as an examplary teacher
@@ -40,7 +39,7 @@ I'll take some notes and this here is the summary.
 * McQuilla says, because it's hard to measure acquisition status (<<output metric>>), it's important to measure understanding-percentage (<<input metric>>)
 * therefore, improve amount of comprehensible content you can get (independent of your level of learning? what about <<diminishing returns>>?)
 * in the video description there is a suggestion for this https://learn.storylearning.com/uncovered-select-language37129904?affiliate_id=4012887[story based language learning site]
-* <<vocabulary acquisition>> is done subconsciously and incrementally
+* xref:/note/VocabularyAcquisitionIsDoneSubconsciouslyAndIncrementally.adoc[<<vocabulary acquisition>> is done subconsciously and incrementally]
 ** you try to comprehend and by that learn new words
 ** usually you pick up a detail, interpretation or a sense of the new word
 ** each time you see it in a new context you pick up new meaning
