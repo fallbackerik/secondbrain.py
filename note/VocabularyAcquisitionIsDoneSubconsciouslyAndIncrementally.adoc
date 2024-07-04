@@ -21,7 +21,7 @@ How to build a vocabulary corpus of a language?
 
 ### Conclusion
 
-We think of vocab acquisition as an atomic one-step action. However, it's actually a set of context-based acquisition steps. Through seeing the vocab in different contexts,
+We think of /note/VocabsNotAtomicKnowledge.adoc[vocab acquisition as an atomic one-step action]. However, it's actually a set of context-based acquisition steps. Through seeing the vocab in different contexts,
 each time we pick up 10-15% of the understanding necessary to use the vocab. This only seems to work, when the context is highly understandable.
 
 I'm not sure, though, whether it is necessary to only work with highly understandable content. I've done something similar in the past,
