@@ -1,0 +1,23 @@
+## Sometimes vocabs even have contradictory meanings
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+### Source
+
+* xref:/content/BrooksGreen2024.adoc[YT Vid: "Ex-Professor Reveals Way to REALLY Learn Languages (according to science)"]
+* https://www.youtube.com/shorts/fPrvMlziFNs[What are contronyms]
+* learned by writing: xref:/note/VocabularyAcquisitionIsDoneSubconsciouslyAndIncrementally.adoc[<<vocabulary acquisition>> is done subconsciously and incrementally]
+
+### Question
+
+Do the different meanings of vocabs need to be related to each other?
+
+### Evidence
+
+TODO
+
+### Conclusion
+
+Apparently not. (TODO)
