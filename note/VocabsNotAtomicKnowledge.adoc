@@ -1,0 +1,22 @@
+## Are vocabs atomic piece of knowledge?
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+### Source
+
+* xref:/content/BrooksGreen2024.adoc[YT Vid: "Ex-Professor Reveals Way to REALLY Learn Languages (according to science)"]
+* learned while writing: xref:/note/VocabularyAcquisitionIsDoneSubconsciouslyAndIncrementally.adoc[vocabulary acquisition is done subconsciously and incrementally]
+
+### Question
+
+Are vocabs atomic piece of knowledge?
+
+### Evidence
+
+TODO
+
+### Conclusion
+
+Apparently not. (TODO)
