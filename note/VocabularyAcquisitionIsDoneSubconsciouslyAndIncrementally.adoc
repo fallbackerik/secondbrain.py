@@ -1,0 +1,28 @@
+## <<vocabulary acquisition>> is done subconsciously and incrementally
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+### Source
+
+* xref:/content/BrooksGreen2024.adoc[YT Vid: "Ex-Professor Reveals Way to REALLY Learn Languages (according to science)"]
+
+### Question
+
+How to build a vocabulary corpus of a language?
+
+### Evidence
+
+* https://youtube.com/clip/Ugkx8rZC4y3HzSQnYXOyjIXoJ2c165zXp-Vv?si=FJ_YBgqnYyPYrWeO[Vocab is acquired incidentally]
+* https://youtube.com/clip/UgkxX1NGtieVRUsNsSd3Bnj4cb_U_DvOT68r?si=NwMr7u4wrlG4DDOB[Vocabulary is acqurired incrementally], each time you see it you add 10-15% of understanding
+* https://youtube.com/clip/UgkxjgKStFZyldU0Pwb5SpBJZw3Q7fVi2_HX?si=P47OCi-zzMVxicqV[McQuillan talking about needing hihgly comprehensible content]
+
+### Conclusion
+
+We think of vocab acquisition as an atomic one-step action. However, it's actually a set of context-based acquisition steps. Through seeing the vocab in different contexts,
+each time we pick up 10-15% of the understanding necessary to use the vocab. This only seems to work, when the context is highly understandable.
+
+I'm not sure, though, whether it is necessary to only work with highly understandable content. I've done something similar in the past,
+where I increased the understanding of the context, by repeating it again and again. Always when I gained new knowledge, another part of the
+content became accessible to my internal meaning-parser.
