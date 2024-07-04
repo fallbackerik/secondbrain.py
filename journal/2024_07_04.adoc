@@ -5,3 +5,15 @@
 :toc:
 
 == Notes
+* while turning xref:/main/journal[daily notes] into xref:/main/journal[atomic notes] something curious happened:
+** While I wrote /note/VocabularyAcquisitionIsDoneSubconsciouslyAndIncrementally.adoc[this note] I discovered new atomic pieces of information that made sense as their own atomic notes, e.g. xref:/note/VocabsNotAtomicKnowledge.adoc[this question]
+** presenting these different points as small inter-linked network of notes feels more right now.
+** It feels like this is a hint of the potential of creating new knowledge and experience deeper learning through <<Zettelkasten>>
+** However, as this form is more free-form than a tree of dotted notes, I wonder if I might miss or lose some connections by applying that form of note taking as well.
+** Maybe a combination of <<Atomic Note>> and <<MOC>>-like note together is often helpful.
+** As not all daily notes turn out as good <<Atomic Note>>s, the daily journal is currently serving as the <<MOC>>-like overview
+* Yesterday, I had the idea for story telling, that Star Trek is usually just showing one single ship flying around, but usually it makes more sense to at least fly in small fleets.
+** https://www.youtube.com/watch?v=21Cu5YJculw&list=TLPQMDQwNzIwMjTlrVbuwXGnkw&index=2[this looks like a very militaristically optimized approach though]
+** I would think that a small fleet of mid-sized specialized vessels, together with a few shuttles for micro-missions would be most reasonable.
+** Thinking about a fleet that constantly drives around in one civilization from planet or solar system to another, in a circle of a few systems, similar to a circus crew of nowadays
+** But they don't just provide entertainment. They deliver post, they are equipped to repair the civs highest high-tech items in the colonies, they have the knowledge to teach colonists, and spread the civs culture.
