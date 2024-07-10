@@ -1,0 +1,7 @@
+== Journal, Wednesday, July 10, 2024
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+== Notes
