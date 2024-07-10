@@ -10,7 +10,7 @@
 ** Apparently, one or more stakeholder groups are against me using an iphone. When I pursue this path, the number of stones in my way always seem to increase.
 ** This is frustrating, because it's not really the phone I want to have anyways.
 ** I want a phone that is:
-*** Open source
+*** <<OpenSource>>
 *** made out of fair-trade components
 *** I can develop apps for from any computer (or maybe even from the smartphone directly)
 *** can run Linux apps if possible (e.g., flatpak)
@@ -20,4 +20,11 @@
 *** does not favor one country, race, gender, etc., maybe not even favoring "just" humans. The people who work there and own stakes think and act globally.
 *** Allows influencers enough time and space to adopt to big changes
 * (Joke) Is your startup already https://de.huel.com/products/huel-instant-meal-pots?utm_source=google&utm_campaign=11517814684&utm_medium=cpc&utm_content=134013673679&utm_term=&BrandGeneric=discovery&gclid=CjwKCAjw4ri0BhAvEiwA8oo6FysVhJSTGT5H2NKzNeoYfes8oJoz5Sc5fry739z1H2v8H3XZr9XrgxoC9rsQAvD_BwE[Huel profitable]?
-** referencing https://paulgraham.com/ramenprofitable.html[PaulG's ramen profitable]
+** referencing https://paulgraham.com/ramenprofitable.html[PaulG's <<RamenProfitable>>]
+* I'd recommend the https://youtu.be/KtzvgwYApcM?si=ftmOiNeV0TLOm7mR[negotiation training with the] London School of Economics
+** Youtube's follow-up recommendation is https://youtu.be/R14Fq57Ynls?si=nQbziYZ1oKbj0rH1[Brand strategy]
+* Another point about <<Security>>
+** I can see, how removable batteries would make me more secure while using an open mobile phone platform
+** But it's not a foundation to build something stable on it
+** I can't see from my experience that someone else but a Big smartphone provider could offer me the safety and stability that I need to focus on my core contributions
+** So, even though I don't prefer iPhones, it might still be the best alternative. And it's not like users are suffering. It's a great platform, too. And the learning, especially in <<UX>>, I gain from using this platform, I can then recontribute towards <<OpenSource>> solutions.
