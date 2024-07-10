@@ -29,6 +29,6 @@
 ** I can't see from my experience that someone else but a Big smartphone provider could offer me the safety and stability that I need to focus on my core contributions
 ** So, even though I don't prefer iPhones, it might still be the best alternative. And it's not like users are suffering. It's a great platform, too. And the learning, especially in <<UX>>, I gain from using this platform, I can then recontribute towards <<OpenSource>> solutions.
 * I definitely want to learn from and with <<Freelancer>>s, like https://www.youtube.com/@FinallyFreelancing/videos[Maruan]. But I want to be an employee. The reason being that my <<Motivation>> doesn't come from financial struggle or financial gain.
-* xref:literature/StrategizeYourLife.adoc[]
+* xref:/literature/StrategizeYourLife.adoc[]
 +
 image::/images/BI_36_STRATEGIZE_YOUR_LIFE_KEY_AREAS_610-1200x1096.png[]
