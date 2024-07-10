@@ -5,3 +5,17 @@
 :toc:
 
 == Notes
+* I want to have a phone.
+** People expect me to have and use a phone. It's part of social life, it's part of business, it's sometimes even a technical requirement to participate
+** Apparently, one or more stakeholder groups are against me using an iphone. When I pursue this path, the number of stones in my way always seem to increase.
+** This is frustrating, because it's not really the phone I want to have anyways.
+** I want a phone that is:
+*** Open source
+*** made out of fair-trade components
+*** I can develop apps for from any computer (or maybe even from the smartphone directly)
+*** can run Linux apps if possible (e.g., flatpak)
+*** provides me with real safety against violent actors
+*** uses the influence gained from having my data in a way that I feel supported and coached, not manipulated and threatened
+*** where the phone developers are also safe
+*** does not favor one country, race, gender, etc., maybe not even favoring "just" humans. The people who work there and own stakes think and act globally.
+*** Allows influencers enough time and space to adopt to big changes
