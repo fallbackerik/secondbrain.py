@@ -5,3 +5,17 @@
 :toc:
 
 == Notes
+* Startrek Ship Design
+** Thinking a lot about how to integrate a Startrekky feel into my own games.
+** I'm unhappy with simply copying the Startrek TNG stuff, but for quite some time I wasn't really sure why
+** Now I'm thinking, that the design goals for these shows was to create rooms that look like they are on a space ship, high-tech, beyond of what we currently do.
+   And that's why they look this way.
+** What I want, however, is create spaces that inspire trust, warmth, a desire to connect to other people, maybe even allow more physical closeness to others
+** The technology then should be integrated in the environment and items in a way that makes their usage intuitive and seemless, i.e., going from
+   LCARS touch displays to apple pencil I can squeeze as input.
+** That makes me think:
+*** How would I touch a coffee mug if I would want to show it that I would desire more coffee? Or that I would desire a hot chocolate instead?
+*** Or how would I place it on a table in front of me?
+*** What kind of items would my cafe have that inspires people to create art, and collaborate with each other?
+*** How could the environment make people sit closer together and show more openly what they currently think about?
+** Would the results then still be recognizable as Star Trek?
