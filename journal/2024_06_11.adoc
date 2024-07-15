@@ -9,4 +9,4 @@
 === Notes
 * https://bildung.social/@m_drabe/112598053713184910[Found this new] xref:/concept/ArtificialIntelligence.adoc[AI]-based tool for teachers and get a xref:/concept/QuickYoutubeOverview.adoc[quick overview through watching Youtube videos].
 
-include::/review/teachino.adoc[]
+include::../review/teachino.adoc[]
