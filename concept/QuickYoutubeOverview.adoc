@@ -25,4 +25,8 @@
 * Trotzdem haben mich die Videos überzeugt. Ich mag besonders das Entwickler Team, ihr Fokus auf den Lehrer als Hauptnutzer, ihre Oberflächen Gestaltung (UX) und die Idee Lern Content als Marketing Content zu nutzen.
 * In the end I summarize my results in some way:
 
+leveloffset: +1
+
 include::../review/teachino.adoc[]
+
+leveloffset: -1
