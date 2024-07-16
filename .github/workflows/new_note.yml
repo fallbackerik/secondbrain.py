@@ -1,0 +1,22 @@
+on: [workflow_dispatch]
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  create_new_note_file_job:
+    runs-on: ubuntu-latest
+    name: Generate new Note from Template
+    steps:
+    
+      - uses: actions/checkout@v4
+
+      - name: create file
+        run: python tools/new_note.py
+
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Create new Note from template'
+          add: 'note/'
