@@ -1,0 +1,14 @@
+== Tiny Glade Game
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+== Notes
+* Tiny Glade is a new game that combines building design with algorithmic help, so that anybody can do it, get pretty results and doesn't need much technical skills
+
+== Links
+* https://youtu.be/QAUSBxxgIbQ?si=OejoAKLfFRXiKckZ[Trailer]
+
+
+
