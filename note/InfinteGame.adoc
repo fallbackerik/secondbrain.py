@@ -1,0 +1,17 @@
+== Infinite Game
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+== Notes
+* Many of our activities are not win/lose scenarios, but games where our prevalent goal is to stay in the game as long as possible
+* How do strategies are different in an infinite game?
+* Is there [[GameTheory]] about infinite games?
+
+== Links
+* https://youtu.be/QFpVVm7AnKI?si=IGxSFg_8DzdTrCz0[Intro by Simon Sinek]
+
+
+
+
