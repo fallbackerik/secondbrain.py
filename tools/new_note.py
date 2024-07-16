@@ -16,7 +16,7 @@ env = jinja2.Environment(loader=jinja2.FileSystemLoader("template/"))
 template = env.get_template("note.adoc.jinja")
 
 rendered = template.render(context)
-output_name = f"note/{title}.adoc"
+output_name = f"note/{fname}.adoc"
 with open(output_name, "w", encoding="utf-8") as output:
   output.write(rendered)
 
