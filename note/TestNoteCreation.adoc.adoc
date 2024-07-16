@@ -1,0 +1,13 @@
+== Test Note Creation
+//Settings:
+:icons: font
+:bibtex-style: harvard-gesellschaft-fur-bildung-und-forschung-in-europa
+:toc:
+
+== Notes
+
+== Links
+
+
+
+
