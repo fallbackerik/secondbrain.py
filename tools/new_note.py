@@ -1,16 +1,24 @@
 import jinja2
 import datetime
+import os.path
+
+from new_daily import main as Journal
 
 def main():
   today = datetime.date.today()
   title = "Test Note Creation"
   fname = "".join(title.split()) + ".adoc"
+  today_iso_underscored = today.strftime("%Y_%m_%d")
+  journal = f"journal/{today_iso_underscored}.adoc"
+  if not os.path.isfile(journal):
+    Journal()
+
   context = {
     "title": title,
     "fname": fname,
     "today_object" : today,
-    "today_iso_underscored" : today.strftime("%Y_%m_%d"),
     "today_human_readable" : today.strftime("%A, %B %d, %Y"),
+    "journal" : journal,
   }
 
   env = jinja2.Environment(loader=jinja2.FileSystemLoader("template/"))
